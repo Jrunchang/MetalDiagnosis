@@ -1,0 +1,120 @@
+id,accession,gene,type,disease,origin,fromaa,toaa,site,protein_variant,AlphaMissense,TransEFVP,MetalDiagnosis
+695,P26358,DNMT1,Benign,not specified|Hereditary sensory neuropathy type IE|not provided,Second-shell,His,Arg,97,H97R,0.0664,0.258488,0.014350164
+698,P13686,ACP5,Benign,not specified,Second-shell,Val,Met,200,V200M,0.2843,0.7214312,0.47437406
+699,P13686,ACP5,Benign,not specified,Second-shell,Val,Met,148,V148M,0.1722,0.6397908,0.35452634
+700,O75792,RNASEH2A,Benign,not specified|Aicardi Goutieres syndrome 4,Second-shell,Leu,Ser,202,L202S,0.1146,0.70156795,0.31394094
+871,O75792,RNASEH2A,Benign,Aicardi Goutieres syndrome 4|not provided,Second-shell,Asp,Glu,205,D205E,0.1105,0.42407978,0.8246049
+705,P49747,COMP,Benign,not specified|Pseudoachondroplastic spondyloepiphyseal dysplasia syndrome|Multiple epiphyseal dysplasia 1,Second-shell,Gln,Arg,756,Q756R,0.0613,0.40604177,0.37415013
+706,P98170,XIAP,Benign,"not specified|Lymphoproliferative syndrome 2, X-linked",Second-shell,Gln,Pro,423,Q423P,0.07,0.1860493,0.02829418
+710,P14780,MMP9,Benign,not specified|Metaphyseal anadysplasia 2,Second-shell,Arg,Pro,574,R574P,0.0522,0.8077281,0.31744766
+837,P14780,MMP9,Benign,Metaphyseal anadysplasia 2|not provided,Second-shell,Arg,His,239,R239H,0.0767,0.50632685,0.025717393
+838,P14780,MMP9,Benign,Metaphyseal anadysplasia 2,Second-shell,Gln,Arg,279,Q279R,0.0781,0.7924087,0.93643636
+877,P14780,MMP9,Likely benign,Metaphyseal anadysplasia 2,Second-shell,Ala,Val,20,A20V,0.0978,0.61997217,0.06555767
+882,P14780,MMP9,Benign,Metaphyseal anadysplasia 2|not specified,Second-shell,Arg,Gln,668,R668Q,0.0666,0.8214255,0.6828404
+711,Q8IYW5,RNF168,Benign,not specified|not provided,Second-shell,Glu,Lys,413,E413K,0.0679,0.15826732,0.050189834
+716,Q04721,NOTCH2,Likely benign,not specified,Second-shell,Val,Phe,1667,V1667F,0.078,0.6202565,0.017156484
+717,P01241,GH1,Benign/Likely benign,not specified|Isolated growth hormone deficiency type IB;Ateleiotic dwarfism;Autosomal dominant isolated somatotropin deficiency;Short stature due to growth hormone qualitative anomaly|not provided|Growth hormone deficiency,Second-shell,Thr,Ala,3,T3A,0.0345,0.3739452,0.19880289
+719,O00187,MASP2,Benign,MASP2 deficiency,Second-shell,Val,Ala,377,V377A,0.0925,0.4611531,0.26633635
+720,O00187,MASP2,Benign,MASP2 deficiency,Second-shell,Pro,Leu,126,P126L,0.0938,0.8133167,0.49475962
+721,O00187,MASP2,Benign/Likely benign,MASP2 deficiency|not provided,Second-shell,Arg,His,439,R439H,0.1045,0.6636111,0.17607181
+722,O00187,MASP2,Benign,MASP2 deficiency|not specified,Second-shell,Asp,Tyr,371,D371Y,0.0974,0.39273745,0.050467055
+723,O00187,MASP2,Benign,MASP2 deficiency|not provided,Second-shell,Arg,Gln,99,R99Q,0.067,0.75479925,0.07029434
+731,P36871,PGM1,Benign,Congenital disorder of glycosylation type 1t|Congenital disorder of glycosylation|not specified|not provided,Second-shell,Tyr,His,420,Y420H,0.5172,0.91529226,0.9690806
+732,P36871,PGM1,Benign/Likely benign,Congenital disorder of glycosylation type 1t|Congenital disorder of glycosylation|not specified|not provided,Second-shell,Val,Ile,501,V501I,0.061,0.8115908,0.025760297
+736,P36871,PGM1,Benign/Likely benign,Congenital disorder of glycosylation type 1t|Congenital disorder of glycosylation|not specified|not provided,Second-shell,Ile,Val,88,I88V,0.0992,0.86987084,0.03681222
+737,P36871,PGM1,Benign/Likely benign,Congenital disorder of glycosylation|Congenital disorder of glycosylation type 1t|not specified|not provided,Second-shell,Arg,Cys,221,R221C,0.2054,0.96614367,0.7175304
+738,Q8IYB7,DIS3L2,Benign,Perlman syndrome,Second-shell,Pro,Ser,12,P12S,0.0664,0.27046138,0.024271647
+739,O75746,SLC25A12,Benign,not provided,Second-shell,Arg,Gln,473,R473Q,0.1231,0.8139671,0.003996361
+745,P98194,ATP2C1,Benign,Familial benign pemphigus|not provided,Second-shell,Ala,Thr,450,A450T,0.0762,0.56254107,0.039070528
+747,P03951,F11,Benign/Likely benign,Hereditary factor XI deficiency disease|not provided,Second-shell,Cys,Phe,339,C339F,0.0925,0.4941309,0.009920538
+748,P05156,CFI,Likely benign,CFI-Related Disorders|not specified,Second-shell,Gly,Arg,287,G287R,0.2149,0.87462217,0.020293703
+751,P05156,CFI,Benign/Likely benign,Atypical hemolytic-uremic syndrome 3|not provided,Second-shell,Ile,Leu,416,I416L,0.1558,0.92689824,0.06430692
+749,P58335,ANTXR2,Benign,Hyaline fibromatosis syndrome,Second-shell,Ala,Pro,357,A357P,0.0391,0.27189043,0.02176735
+752,Q08881,ITK,Likely benign,Lymphoproliferative syndrome 1,Second-shell,Arg,Trp,581,R581W,0.3753,0.46469054,0.009048868
+758,Q08881,ITK,Benign,Lymphoproliferative syndrome 1,Second-shell,Arg,Gln,193,R193Q,0.0648,0.5121425,0.021027897
+753,O95450,ADAMTS2,Benign/Likely benign,Ehlers-Danlos syndrome dermatosparaxis type|not specified,Second-shell,Arg,Gln,827,R827Q,0.0885,0.69009495,0.13081145
+754,O95450,ADAMTS2,Benign,Ehlers-Danlos syndrome dermatosparaxis type|not specified,Second-shell,Arg,His,241,R241H,0.067,0.6263616,0.002057986
+760,O95450,ADAMTS2,Benign,Ehlers-Danlos syndrome dermatosparaxis type|not specified,Second-shell,Pro,Ser,1177,P1177S,0.128,0.5753726,0.009294023
+761,O95450,ADAMTS2,Benign,Ehlers-Danlos syndrome dermatosparaxis type|not specified|not provided,Second-shell,Val,Ile,245,V245I,0.071,0.36118808,0.020290745
+771,O95450,ADAMTS2,Benign,Ehlers-Danlos syndrome dermatosparaxis type,Second-shell,Val,Met,74,V74M,0.1564,0.80216765,0.15982912
+756,P02679,FGG,Benign,"Afibrinogenemia, congenital|not provided",Second-shell,Tyr,His,140,Y140H,0.1112,0.83707446,0.6626304
+764,Q96PD4,IL17F,Benign,"Candidiasis, familial, 6",Second-shell,Val,Ile,155,V155I,0.1881,0.8408314,0.005663259
+769,Q96PD4,IL17F,Benign,"Candidiasis, familial, 6",Second-shell,His,Arg,161,H161R,0.0899,0.7075615,0.044166487
+770,Q96PD4,IL17F,Benign,"Candidiasis, familial, 6|not specified",Second-shell,Glu,Gly,126,E126G,0.6873,0.9362598,0.08300405
+765,O75603,GCM2,Likely benign,Familial isolated hypoparathyroidism,Second-shell,Gly,Ser,203,G203S,0.0777,0.36895472,0.013863609
+767,P16499,PDE6A,Likely benign,Retinitis pigmentosa,Second-shell,Asn,Ser,216,N216S,0.0776,0.8501749,0.1626527
+768,P29460,IL12B,Benign,Immunodeficiency 29,Second-shell,Val,Phe,298,V298F,0.1874,0.5941974,0.04154625
+772,P15538,CYP11B1,Benign,"Hyperaldosteronism, familial, type I|Deficiency of steroid 11-beta-monooxygenase",Second-shell,Ala,Val,386,A386V,0.0561,0.8185856,0.03367237
+773,P15538,CYP11B1,Benign/Likely benign,"Hyperaldosteronism, familial, type I|Deficiency of steroid 11-beta-monooxygenase|not specified|not provided",Second-shell,Thr,Ile,248,T248I,0.1187,0.73573595,0.001434632
+786,P15538,CYP11B1,Benign,"Hyperaldosteronism, familial, type I|Deficiency of steroid 11-beta-monooxygenase",Second-shell,Arg,Gln,43,R43Q,0.0656,0.97201794,0.013866334
+777,P09172,DBH,Benign,Orthostatic hypotension 1,Second-shell,Ala,Thr,211,A211T,0.0605,0.7479835,0.025153415
+798,P09172,DBH,Benign,Orthostatic hypotension 1,Second-shell,Ala,Ser,318,A318S,0.0831,0.8776146,0.027106615
+800,P09172,DBH,Benign,Orthostatic hypotension 1,Second-shell,Asp,Asn,290,D290N,0.0743,0.6640693,0.016170539
+801,P09172,DBH,Benign,Orthostatic hypotension 1,Second-shell,Arg,Cys,549,R549C,0.2098,0.7082851,0.001412827
+778,P43005,SLC1A1,Benign,Dicarboxylic aminoaciduria|not provided,Second-shell,Phe,Tyr,50,F50Y,0.0572,0.60130876,0.9738265
+785,P45452,MMP13,Benign/Likely benign,"Spondyloepimetaphyseal dysplasia, Missouri type|Metaphyseal anadysplasia|not provided",Second-shell,Asp,Gly,390,D390G,0.1149,0.63358986,0.065052025
+794,P13497,BMP1,Benign,"Osteogenesis imperfecta, type xiii|not specified",Second-shell,Val,Ile,719,V719I,0.0602,0.28755096,0.03296507
+797,P06396,GSN,Benign,Meretoja syndrome,Second-shell,Ala,Thr,89,A89T,0.962,0.9856989,0.04258972
+802,Q01432,AMPD3,Benign/Likely benign,Erythrocyte AMP deaminase deficiency|not specified,Second-shell,Arg,Trp,194,R194W,0.138,0.4556753,0.04438786
+803,Q8IWU9,TPH2,Likely benign,Tryptophan 5-monooxygenase deficiency,Second-shell,Ser,Tyr,41,S41Y,0.0731,0.32938936,0.012561701
+804,P15291,B4GALT1,Benign,not provided,Second-shell,His,Arg,257,H257R,0.0569,0.51510775,0.04313014
+805,P00742,F10,Benign,Hereditary factor X deficiency disease|not provided,Second-shell,Gly,Arg,192,G192R,0.0754,0.45743608,0.017201029
+820,P00742,F10,Benign,Hereditary factor X deficiency disease|not provided,Second-shell,Gln,His,30,Q30H,0.1232,0.58213615,0.24503033
+809,Q8TE56,ADAMTS17,Benign,Weill-Marchesani syndrome 4,Second-shell,Ser,Leu,216,S216L,0.0877,0.38837555,0.014569723
+845,Q8TE56,ADAMTS17,Benign,Weill-Marchesani syndrome 4,Second-shell,Met,Thr,482,M482T,0.0412,0.56896603,0.037762254
+854,Q8TE56,ADAMTS17,Benign,Weill-Marchesani syndrome 4,Second-shell,Asn,Ser,1094,N1094S,0.0553,0.26004657,0.004748575
+814,P08253,MMP2,Benign,"Multicentric osteolysis, nodulosis and arthropathy|not provided",Second-shell,Ala,Val,447,A447V,0.0717,0.6021902,0.008092685
+816,P61626,LYZ,Benign/Likely benign,"Familial visceral amyloidosis, Ostertag type",Second-shell,Thr,Asn,88,T88N,0.5658,0.7223077,0.027072458
+823,Q9NUW8,TDP1,Benign,"Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy 1|not specified",Second-shell,Ala,Thr,134,A134T,0.067,0.10407721,0.008259344
+824,Q9NUW8,TDP1,Benign,"Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy 1|not provided",Second-shell,Arg,Gln,304,R304Q,0.0778,0.49851373,0.030579831
+844,Q9NUW8,TDP1,Benign/Likely benign,"Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy 1|not specified",Second-shell,Pro,Leu,101,P101L,0.0638,0.13111654,0.016483342
+852,Q9NUW8,TDP1,Benign,"Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy 1|not provided",Second-shell,Thr,Ala,569,T569A,0.0507,0.35292473,0.012745027
+832,P12955,PEPD,Benign/Likely benign,Prolidase deficiency|not provided,Second-shell,Arg,His,388,R388H,0.4537,0.8297352,0.13349923
+873,P12955,PEPD,Benign,Prolidase deficiency|not specified,Second-shell,Leu,Phe,435,L435F,0.0997,0.94872504,0.018109389
+836,P23975,SLC6A2,Benign,not provided,Second-shell,Thr,Arg,283,T283R,0.2242,0.82350206,0.02817157
+839,P25942,CD40,Benign,not specified|Hyper-IgM syndrome type 3,Second-shell,Pro,Ala,227,P227A,0.0639,0.24733382,0.022975758
+883,P25942,CD40,Benign,Hyper-IgM syndrome type 3,Second-shell,Ser,Leu,124,S124L,0.081,0.6323619,0.008639896
+840,P22223,CDH3,Benign,EEM syndrome,Second-shell,Arg,His,477,R477H,0.0529,0.2867344,0.085353926
+858,P22223,CDH3,Benign,EEM syndrome|not provided,Second-shell,Gln,His,563,Q563H,0.3423,0.46839753,0.019959409
+841,P49588,AARS1,Benign,"Charcot-Marie-Tooth disease, type 2|Charcot-Marie-Tooth disease, type 2N",Second-shell,Gly,Asp,275,G275D,0.1549,0.8093568,0.033504866
+842,P35558,PCK1,Benign,"Phosphoenolpyruvate carboxykinase deficiency, cytosolic",Second-shell,Glu,Lys,276,E276K,0.054,0.5397582,0.007498115
+864,P35558,PCK1,Benign,"Phosphoenolpyruvate carboxykinase deficiency, cytosolic",Second-shell,Ile,Val,267,I267V,0.2556,0.8956927,0.073106505
+879,P35558,PCK1,Likely benign,"Phosphoenolpyruvate carboxykinase deficiency, cytosolic|not provided",Second-shell,Met,Thr,60,M60T,0.6876,0.8343133,0.96458644
+880,P35558,PCK1,Benign,"Phosphoenolpyruvate carboxykinase deficiency, cytosolic",Second-shell,Val,Ile,368,V368I,0.0748,0.78009087,0.8268714
+884,P35558,PCK1,Benign,"Phosphoenolpyruvate carboxykinase deficiency, cytosolic",Second-shell,Val,Leu,184,V184L,0.0571,0.69078875,0.030381147
+843,P22735,TGM1,Benign,Autosomal recessive congenital ichthyosis 1|not provided,Second-shell,Ser,Leu,755,S755L,0.1083,0.5175828,0.0159178
+849,P13929,ENO3,Benign,Glycogen storage disease due to muscle beta-enolase deficiency|not specified|not provided,Second-shell,Val,Ala,85,V85A,0.0999,0.50289065,0.04453435
+866,P13929,ENO3,Benign,Glycogen storage disease due to muscle beta-enolase deficiency|not specified|not provided,Second-shell,Asn,Ser,71,N71S,0.0593,0.57811284,0.002403921
+850,O94972,TRIM37,Benign,Mulibrey nanism syndrome|not provided,Second-shell,Val,Ile,838,V838I,0.0719,0.21652454,0.02185477
+853,Q99732,LITAF,Benign,"Charcot-Marie-Tooth disease, type 1C|not specified|Charcot-Marie-Tooth disease",Second-shell,Ile,Val,92,I92V,0.0588,0.87732154,0.015160786
+857,Q6NT55,CYP4F22,Benign,Autosomal recessive congenital ichthyosis 5|not provided,Second-shell,Lys,Gln,505,K505Q,0.0887,0.54482025,0.015184784
+872,Q6NT55,CYP4F22,Benign,Autosomal recessive congenital ichthyosis 5,Second-shell,Ser,Cys,178,S178C,0.0844,0.96501076,0.15585561
+859,P31645,SLC6A4,Likely benign,Behavior disorder,Second-shell,Lys,Asn,605,K605N,0.4399,0.811049,0.026778514
+860,P80404,ABAT,Benign,Gamma-aminobutyric acid transaminase deficiency|not provided,Second-shell,Gln,Arg,56,Q56R,0.0557,0.47365606,0.01028885
+862,P22748,CA4,Benign/Likely benign,Retinitis pigmentosa|not provided,Second-shell,Asn,Lys,177,N177K,0.8061,0.7875715,0.2920228
+865,O75342,ALOX12B,Benign,Autosomal recessive congenital ichthyosis 2|not provided,Second-shell,Gly,Ser,94,G94S,0.149,0.68590426,0.06382921
+870,Q8WVQ1,CANT1,Benign/Likely benign,Desbuquois dysplasia 1|not provided,Second-shell,Ala,Thr,323,A323T,0.1016,0.94366807,0.028075675
+878,Q07973,CYP24A1,Benign,"Hypercalcemia, infantile, 1|not provided",Second-shell,Met,Thr,374,M374T,0.6113,0.8982765,0.038296696
+162,Q14191,WRN,Benign/Likely benign,Werner syndrome|not specified,Second-shell,Arg,Cys,834,R834C,0.5724,0.99266773,0.024502598
+430,Q14191,WRN,Benign,not specified|Werner syndrome|not provided,Second-shell,Ser,Leu,1079,S1079L,0.0818,0.17089249,0.002294434
+431,Q14191,WRN,Benign,not specified|Werner syndrome|not provided,Second-shell,Met,Ile,387,M387I,0.147,0.34307384,0.003874358
+432,Q14191,WRN,Benign,not specified|Werner syndrome|not provided,Second-shell,Leu,Phe,1074,L1074F,0.0504,0.3620679,0.000682824
+433,Q14191,WRN,Benign,not specified|Werner syndrome,Second-shell,Val,Ile,114,V114I,0.058,0.7632514,0.01863582
+434,Q14191,WRN,Benign,not specified|Werner syndrome|not provided,Second-shell,Cys,Arg,1367,C1367R,0.0878,0.15735257,0.006945325
+478,Q14191,WRN,Benign/Likely benign,not specified|Werner syndrome,Second-shell,Val,Ile,1339,V1339I,0.137,0.5463164,0.031564325
+479,Q14191,WRN,Likely benign,not specified|Werner syndrome,Second-shell,Thr,Pro,172,T172P,0.0968,0.51513624,0.023357164
+480,Q14191,WRN,Benign/Likely benign,not specified|Werner syndrome,Second-shell,Asn,Lys,240,N240K,0.0908,0.22986221,0.004506153
+481,Q14191,WRN,Benign/Likely benign,not specified|Werner syndrome|Malignant tumor of breast,Second-shell,Thr,Ala,324,T324A,0.0641,0.10733068,0.004897568
+610,Q14191,WRN,Likely benign,Werner syndrome,Second-shell,Arg,Trp,711,R711W,0.3461,0.7377131,0.8277056
+399,Q03468,ERCC6,Benign,not specified|Macular degeneration|Cockayne syndrome|COFS syndrome,Second-shell,Gly,Asp,399,G399D,0.0749,0.27843872,0.005686414
+400,Q03468,ERCC6,Benign,not specified|Cockayne syndrome|COFS syndrome|Macular degeneration,Second-shell,Met,Val,1097,M1097V,0.0563,0.08269718,0.001774374
+401,Q03468,ERCC6,Benign,not specified|Macular degeneration|Cockayne syndrome|COFS syndrome,Second-shell,Arg,Gly,1213,R1213G,0.0924,0.29121867,0.026905771
+402,Q03468,ERCC6,Benign,not specified|Macular degeneration|Cockayne syndrome|COFS syndrome,Second-shell,Arg,Pro,1230,R1230P,0.1257,0.34628293,0.002734772
+403,Q03468,ERCC6,Benign,not specified|COFS syndrome|Macular degeneration|Cockayne syndrome,Second-shell,Gln,Arg,1413,Q1413R,0.0694,0.15114124,0.001672016
+613,Q03468,ERCC6,Benign/Likely benign,not provided|not specified|Cockayne syndrome|COFS syndrome|Macular degeneration,Second-shell,Gly,Asp,446,G446D,0.1158,0.27353886,0.00565353
+681,Q03468,ERCC6,Benign/Likely benign,not specified|not provided,Second-shell,Asp,Glu,1355,D1355E,0.1203,0.19108196,0.005833304
+682,Q03468,ERCC6,Benign,not specified|Age-related macular degeneration 5|Cockayne syndrome B|Cerebrooculofacioskeletal syndrome 1|not provided,Second-shell,Thr,Met,942,T942M,0.0947,0.5186077,0.21865653
+825,Q03468,ERCC6,Benign/Likely benign,Cockayne syndrome|Macular degeneration|COFS syndrome|not provided,Second-shell,Val,Leu,1308,V1308L,0.088,0.16247135,0.006209796
+844,Q03468,ERCC6,Benign,Cockayne syndrome B|Cerebrooculofacioskeletal syndrome 1|Age-related macular degeneration 5|not provided,Second-shell,Gly,Val,1322,G1322V,0.2258,0.22940394,0.025206527
+858,Q03468,ERCC6,Benign,Age-related macular degeneration 5|Cockayne syndrome B|Cerebrooculofacioskeletal syndrome 1|not provided,Second-shell,Thr,Ile,1441,T1441I,0.0668,0.40006942,0.008670049
+860,Q03468,ERCC6,Benign,Cerebrooculofacioskeletal syndrome 1|Age-related macular degeneration 5|Cockayne syndrome B|not provided,Second-shell,Gly,Arg,1372,G1372R,0.3328,0.15519494,0.008995796

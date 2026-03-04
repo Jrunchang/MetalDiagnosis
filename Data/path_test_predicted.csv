@@ -1,0 +1,380 @@
+id,accession,gene,type,disease,origin,fromaa,toaa,site,protein_variant,AlphaMissense,MetalDiagnosis,TransEFVP
+1211,Q16518,RPE65,Pathogenic,Retinitis pigmentosa 20|Leber congenital amaurosis 2;Retinitis pigmentosa 20|Leber congenital amaurosis 2,Second-shell,Pro,Thr,363,P363T,0.9308,0.911946,0.9734571
+1212,Q16518,RPE65,Pathogenic,Retinitis pigmentosa 20|not provided|Leber congenital amaurosis 2|Retinitis pigmentosa 20;Leber congenital amaurosis 2,Second-shell,Leu,Ser,341,L341S,0.9941,0.9722102,0.9848899
+1213,Q16518,RPE65,Pathogenic,Retinitis pigmentosa 20|Leber congenital amaurosis 2|not provided|Retinitis pigmentosa|Retinitis pigmentosa 20;Leber congenital amaurosis 2,Second-shell,Arg,Trp,515,R515W,0.7398,0.9021714,0.91998357
+1910,Q16518,RPE65,Pathogenic,Retinitis pigmentosa 20|Leber congenital amaurosis 2|not provided|RPE65-Related Disorders|Retinitis pigmentosa|Retinitis pigmentosa 20;Leber congenital amaurosis 2|Leber congenital amaurosis,Second-shell,Tyr,His,368,Y368H,0.9786,0.93929493,0.9734394
+1911,Q16518,RPE65,Pathogenic,Leber congenital amaurosis 2|not provided|Retinitis pigmentosa 20;Leber congenital amaurosis 2,Second-shell,Tyr,Cys,431,Y431C,0.7091,0.9918909,0.97278225
+2459,Q16518,RPE65,Pathogenic,not provided|Retinitis pigmentosa|Leber congenital amaurosis 2;Retinitis pigmentosa 20|Retinal dystrophy|Leber congenital amaurosis 2|Leber congenital amaurosis,Second-shell,Gly,Ser,40,G40S,0.8548,0.986161,0.98654443
+2460,Q16518,RPE65,Likely pathogenic,not provided,Second-shell,Gly,Val,436,G436V,0.9285,0.9680141,0.85929924
+2461,Q16518,RPE65,Pathogenic,not provided|Leber congenital amaurosis 2;Retinitis pigmentosa 20|Leber congenital amaurosis 2|Autosomal recessive retinitis pigmentosa|Leber congenital amaurosis,Second-shell,Arg,Gln,44,R44Q,0.8946,0.99755764,0.99556893
+2462,Q16518,RPE65,Likely pathogenic,not provided|Leber congenital amaurosis 2|Retinitis pigmentosa 20;Leber congenital amaurosis 2,Second-shell,Val,Asp,473,V473D,0.9929,0.9360888,0.69804156
+2463,Q16518,RPE65,Likely pathogenic,not provided,Second-shell,Glu,Gln,95,E95Q,0.437,0.9821231,0.84435564
+2464,Q16518,RPE65,Likely pathogenic,not provided|Leber congenital amaurosis 2,Second-shell,Glu,Asp,148,E148D,0.98,0.9934736,0.9847195
+2465,Q16518,RPE65,Likely pathogenic,not provided|Retinitis pigmentosa 20|RPE65-Related Disorders|Leber congenital amaurosis 2;Retinitis pigmentosa 20|Leber congenital amaurosis 2,Second-shell,Asp,Tyr,167,D167Y,0.8437,0.9357559,0.8122928
+2466,Q16518,RPE65,Likely pathogenic,not provided|Leber congenital amaurosis 2,Second-shell,His,Asn,182,H182N,0.8057,0.9967614,0.9799295
+2467,Q16518,RPE65,Pathogenic,not provided|Leber congenital amaurosis 2;Retinitis pigmentosa 20|Leber congenital amaurosis 2,Second-shell,Leu,Pro,22,L22P,0.8816,0.9504096,0.8507645
+2468,Q16518,RPE65,Pathogenic,not provided|Leber congenital amaurosis 2|Leber congenital amaurosis 2;Retinitis pigmentosa 20,Second-shell,Tyr,Asp,239,Y239D,0.9977,0.99845946,0.99247956
+2469,Q16518,RPE65,Likely pathogenic,not provided|Retinitis pigmentosa 20;Leber congenital amaurosis 2|Leber congenital amaurosis 2,Second-shell,Cys,Tyr,330,C330Y,0.9185,0.983263,0.9523344
+1228,P11177,PDHB,Pathogenic,Pyruvate dehydrogenase E1-beta deficiency,Second-shell,Tyr,Cys,132,Y132C,0.7804,0.99746585,0.96738774
+1229,P11177,PDHB,Pathogenic,Pyruvate dehydrogenase E1-beta deficiency,Second-shell,Pro,Ser,344,P344S,0.9209,0.9907488,0.97503394
+1238,P43403,ZAP70,Pathogenic,Combined immunodeficiency due to ZAP70 deficiency,Second-shell,Ser,Arg,518,S518R,0.9773,0.9933314,0.91030353
+2912,P43403,ZAP70,Pathogenic,"Combined T and B cell immunodeficiency|Autoimmune disease, multisystem, infantile-onset, 2",Second-shell,Arg,Trp,192,R192W,0.8993,0.94366646,0.7604003
+2913,P43403,ZAP70,Pathogenic,"Combined T and B cell immunodeficiency|Autoimmune disease, multisystem, infantile-onset, 2",Second-shell,Arg,Pro,360,R360P,0.7502,0.9810703,0.528767
+1247,P07225,PROS1,Pathogenic,"Thrombophilia due to protein S deficiency, autosomal dominant",Second-shell,Asn,Ser,258,N258S,0.3958,0.9801118,0.96401745
+1248,P07225,PROS1,Pathogenic,"Thrombophilia due to protein S deficiency, autosomal dominant|Thrombophilia due to protein S deficiency, autosomal recessive",Second-shell,Lys,Glu,196,K196E,0.0862,0.976003,0.47855276
+1909,P07225,PROS1,Pathogenic,"Thrombophilia due to protein S deficiency, autosomal recessive",Second-shell,Tyr,Cys,234,Y234C,0.4737,0.9864891,0.9056448
+1255,Q05516,ZBTB16,Pathogenic,"Skeletal defects, genital hypoplasia, and mental retardation",Second-shell,Met,Val,617,M617V,0.7289,0.99161303,0.6969864
+1277,P54098,POLG,Pathogenic,Autosomal dominant progressive external ophthalmoplegia with mitochondrial DNA deletions 1|Mitochondrial diseases|not provided|Progressive sclerosing poliodystrophy,Second-shell,Tyr,Cys,955,Y955C,0.9302,0.9940428,0.99388325
+1278,P54098,POLG,Pathogenic,"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 1|Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome|Myoclonic epilepsy myopathy sensory ataxia|Progressive sclerosing poliodystrophy|Autosomal dominant progressive external ophthalmoplegia with mitochondrial DNA deletions 1|not provided|POLG-Related Spectrum Disorders|Mitochondrial diseases|6 conditions|Seizures|POLG-related condition|Progressive sclerosing poliodystrophy;Mitochondrial DNA depletion syndrome 4B, MNGIE type|POLG-related disorders|Mitochondrial DNA depletion syndrome 4B, MNGIE type|Toe walking",Second-shell,Ala,Thr,467,A467T,0.7688,0.9079559,0.8816523
+1279,P54098,POLG,Pathogenic/Likely pathogenic,"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 1|not provided|Progressive sclerosing poliodystrophy|6 conditions|Inborn genetic diseases",Second-shell,Leu,Arg,304,L304R,0.8961,0.9469411,0.9690062
+1280,P54098,POLG,Pathogenic,"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 1",Second-shell,Arg,Pro,3,R3P,0.2125,0.79471886,0.36569673
+1281,P54098,POLG,Pathogenic,Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome|Progressive sclerosing poliodystrophy,Second-shell,Arg,Trp,627,R627W,0.653,0.87159854,0.5896668
+1282,P54098,POLG,Pathogenic,Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome|Progressive sclerosing poliodystrophy,Second-shell,His,Tyr,932,H932Y,0.9702,0.9985781,0.9916324
+1283,P54098,POLG,Likely pathogenic,Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome|not provided|Progressive sclerosing poliodystrophy|POLG-Related Spectrum Disorders|Intellectual disability,Second-shell,Gly,Arg,1051,G1051R,0.4511,0.9894163,0.8905739
+1284,P54098,POLG,Pathogenic,"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 1|Progressive external ophthalmoplegia with mitochondrial DNA deletions, digenic|Progressive sclerosing poliodystrophy|Mitochondrial DNA depletion syndrome 4B, MNGIE type|not provided|POLG-Related Spectrum Disorders|POLG- Related Disorder|6 conditions|Autosomal dominant progressive external ophthalmoplegia with mitochondrial DNA deletions 1|Seizures|Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome;Mitochondrial DNA depletion syndrome 4B, MNGIE type;Autosomal dominant progressive external ophthalmoplegia with mitochondrial DNA deletions 1;Progressive sclerosing poliodystrophy;Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 1",Second-shell,Gly,Ser,848,G848S,0.8802,0.9909458,0.98643285
+1285,P54098,POLG,Pathogenic,"Mitochondrial DNA depletion syndrome 4B, MNGIE type",Second-shell,Asn,Ser,864,N864S,0.4968,0.9873483,0.9486621
+1286,P54098,POLG,Pathogenic,Autosomal dominant progressive external ophthalmoplegia with mitochondrial DNA deletions 1,Second-shell,Ala,Ser,957,A957S,0.4075,0.9957676,0.95515895
+1287,P54098,POLG,Pathogenic/Likely pathogenic,"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 1|not provided|Progressive sclerosing poliodystrophy|POLG-Related Spectrum Disorders|Mitochondrial diseases|Seizures|Progressive sclerosing poliodystrophy;Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome;Mitochondrial DNA depletion syndrome 4B, MNGIE type;Autosomal dominant progressive external ophthalmoplegia with mitochondrial DNA deletions 1;Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 1|Progressive sclerosing poliodystrophy;Mitochondrial DNA depletion syndrome 4B, MNGIE type|none provided",Second-shell,Gly,Arg,737,G737R,0.9362,0.8990443,0.73936063
+1288,P54098,POLG,Pathogenic,Autosomal dominant progressive external ophthalmoplegia with mitochondrial DNA deletions 1,Second-shell,Ser,Asn,511,S511N,0.0883,0.82933766,0.12334526
+1289,P54098,POLG,Pathogenic,"Mitochondrial DNA depletion syndrome 4B, MNGIE type|not provided|Progressive sclerosing poliodystrophy|Abnormality of corpus callosum",Second-shell,Arg,Trp,227,R227W,0.3861,0.86532867,0.85102516
+1815,P54098,POLG,Pathogenic,Mitochondrial diseases|not provided,Second-shell,Arg,His,232,R232H,0.1538,0.86662215,0.7673268
+2858,P54098,POLG,Likely pathogenic,not provided,Second-shell,Glu,Lys,1136,E1136K,0.9965,0.99859864,0.98695105
+2859,P54098,POLG,Pathogenic/Likely pathogenic,not provided|Progressive sclerosing poliodystrophy,Second-shell,Pro,Arg,648,P648R,0.8626,0.7707968,0.71089274
+3041,P54098,POLG,Pathogenic,"POLG-Related Spectrum Disorders|not provided|Progressive sclerosing poliodystrophy|Mitochondrial DNA depletion syndrome 4B, MNGIE type;Progressive sclerosing poliodystrophy",Second-shell,Thr,Pro,914,T914P,0.8596,0.99068016,0.98156977
+1298,P00747,PLG,Pathogenic,Dysplasminogenemia,Second-shell,Val,Phe,374,V374F,0.0978,0.9461016,0.3177206
+1299,P00747,PLG,Pathogenic,Dysplasminogenemia,Second-shell,Ser,Pro,591,S591P,0.9793,0.7505658,0.97594154
+1300,P00747,PLG,Pathogenic,"Plasminogen deficiency, type I",Second-shell,Arg,His,235,R235H,0.4301,0.9915754,0.9954313
+1301,P00747,PLG,Pathogenic,Dysplasminogenemia,Second-shell,Gly,Arg,751,G751R,0.3643,0.93594134,0.95776033
+1302,P00747,PLG,Pathogenic/Likely pathogenic,"Plasminogen deficiency, type I|not provided|Otitis media, susceptibility to",Second-shell,Lys,Glu,38,K38E,0.1455,0.92804766,0.80390054
+1309,P36871,PGM1,Pathogenic,Congenital disorder of glycosylation type 1t,Second-shell,Thr,Ala,115,T115A,0.986,0.9816165,0.98756695
+2144,P36871,PGM1,Pathogenic,Congenital disorder of glycosylation type 1t,Second-shell,Gly,Arg,121,G121R,0.9945,0.99056256,0.87458736
+2630,P36871,PGM1,Pathogenic,Congenital disorder of glycosylation type 1t,Second-shell,Leu,Pro,516,L516P,0.994,0.9721314,0.9717326
+2631,P36871,PGM1,Pathogenic,Congenital disorder of glycosylation type 1t,Second-shell,Asn,Tyr,38,N38Y,0.9667,0.9871683,0.93659484
+2632,P36871,PGM1,Pathogenic,Congenital disorder of glycosylation type 1t|not provided,Second-shell,Asp,His,62,D62H,0.9993,0.99938,0.99632096
+2633,P36871,PGM1,Pathogenic,Congenital disorder of glycosylation type 1t,Second-shell,Asp,Tyr,263,D263Y,0.9954,0.97104406,0.91479343
+1327,P14222,PRF1,Pathogenic,Familial hemophagocytic lymphohistiocytosis 2,Second-shell,Arg,Trp,225,R225W,0.1771,0.34620738,0.8397891
+1328,P14222,PRF1,Pathogenic,Familial hemophagocytic lymphohistiocytosis 2,Second-shell,Gly,Glu,429,G429E,0.7261,0.99392587,0.9613807
+1329,P14222,PRF1,Pathogenic,Familial hemophagocytic lymphohistiocytosis 2,Second-shell,Pro,Leu,345,P345L,0.7076,0.9680465,0.93097985
+1330,P14222,PRF1,Pathogenic,Familial hemophagocytic lymphohistiocytosis 2,Second-shell,Cys,Tyr,279,C279Y,0.9123,0.97835755,0.9694699
+1331,P14222,PRF1,Pathogenic,Familial hemophagocytic lymphohistiocytosis 2,Second-shell,Val,Gly,183,V183G,0.3554,0.9547544,0.7762358
+1338,P10721,KIT,Pathogenic,Partial albinism,Second-shell,Phe,Leu,584,F584L,0.9988,0.90375704,0.8904002
+1339,P10721,KIT,Pathogenic,Partial albinism,Second-shell,Glu,Lys,583,E583K,0.9977,0.8772561,0.8481311
+1340,P10721,KIT,Pathogenic/Likely pathogenic,Gastrointestinal stromal tumor|Melanoma,Second-shell,Val,Asp,559,V559D,0.9965,0.9752882,0.5699656
+1341,P10721,KIT,Pathogenic,Piebaldism with sensorineural deafness,Second-shell,Arg,Gly,796,R796G,0.9995,0.99062717,0.9972198
+1342,P10721,KIT,Pathogenic/Likely pathogenic,"Acute myeloid leukemia|Melanoma|Hematologic neoplasm|Gastrointestinal stromal tumor|MASTOCYTOSIS, CUTANEOUS AND SYSTEMIC, SOMATIC",Second-shell,Asp,Tyr,816,D816Y,0.9981,0.9703593,0.9219533
+1343,P10721,KIT,Pathogenic,Partial albinism,Second-shell,Thr,Pro,847,T847P,0.9847,0.9888713,0.9425551
+1344,P10721,KIT,Pathogenic/Likely pathogenic,Mastocytosis|Gastrointestinal stromal tumor,Second-shell,Glu,Lys,839,E839K,0.9981,0.98408073,0.98755765
+1362,P04049,RAF1,Pathogenic,"Noonan syndrome 5|LEOPARD syndrome 2|Noonan syndrome with multiple lentigines|Rasopathy|Noonan syndrome|not provided|Lung adenocarcinoma|Adenocarcinoma of stomach|Malignant melanoma of skin|Neoplasm of the large intestine|Cardiomyopathy, dilated, 1NN;LEOPARD syndrome 2;Noonan syndrome 5|Inborn genetic diseases|Noonan syndrome with multiple lentigines;Noonan syndrome|Noonan syndrome 1|none provided",Second-shell,Ser,Leu,257,S257L,0.974,0.98844564,0.90795547
+1363,P04049,RAF1,Pathogenic,Noonan syndrome 5|not provided|Primary familial hypertrophic cardiomyopathy|Noonan syndrome|Rasopathy|Cardiovascular phenotype|Inborn genetic diseases,Second-shell,Pro,Ser,261,P261S,0.9986,0.98266995,0.94627696
+1364,P04049,RAF1,Pathogenic,LEOPARD syndrome 2|Noonan syndrome 5|Noonan syndrome with multiple lentigines|Rasopathy|not provided|Noonan syndrome|Noonan syndrome with multiple lentigines;Noonan syndrome|Familial hypertrophic cardiomyopathy 1,Second-shell,Leu,Val,633,L633V,0,0.9802176,0.5207657
+1816,P04049,RAF1,Pathogenic,Noonan syndrome with multiple lentigines,Second-shell,Asp,Asn,506,D506N,0,0.9821087,0.9014619
+2162,P04049,RAF1,Pathogenic,Noonan syndrome|not provided|Rasopathy,Second-shell,Arg,Ser,256,R256S,0.995,0.9401853,0.97477823
+2163,P04049,RAF1,Pathogenic,Rasopathy|Noonan syndrome,Second-shell,Ser,Phe,259,S259F,0.9987,0.9967553,0.99155045
+2656,P04049,RAF1,Pathogenic,"Cardiomyopathy, dilated, 1NN",Second-shell,Leu,Pro,623,L623P,0,0.9365571,0.80784273
+2658,P04049,RAF1,Pathogenic,"Cardiomyopathy, dilated, 1NN",Second-shell,Ala,Thr,237,A237T,0.084,0.856047,0.39067724
+1382,P23975,SLC6A2,Pathogenic,Orthostatic intolerance,Second-shell,Ala,Pro,457,A457P,0.9428,0.9127505,0.9651235
+1388,P12883,MYH7,Pathogenic,Familial hypertrophic cardiomyopathy 1|Primary familial hypertrophic cardiomyopathy|not provided|Hypertrophic cardiomyopathy,Second-shell,Arg,Gln,403,R403Q,0.8694,0.99787855,0.72210234
+1389,P12883,MYH7,Pathogenic/Likely pathogenic,Familial hypertrophic cardiomyopathy 1|not provided|Hypertrophic cardiomyopathy|Cardiovascular phenotype|7 conditions|Cardiomyopathy,Second-shell,Arg,Gln,249,R249Q,0.9779,0.99645114,0.7208037
+1390,P12883,MYH7,Pathogenic,Familial hypertrophic cardiomyopathy 1|Primary familial hypertrophic cardiomyopathy|not provided|Hypertrophic cardiomyopathy|Cardiovascular phenotype|Cardiomyopathy|Primary dilated cardiomyopathy,Second-shell,Arg,Cys,453,R453C,0.9658,0.98305833,0.5041511
+1391,P12883,MYH7,Pathogenic,Familial hypertrophic cardiomyopathy 1|Primary familial hypertrophic cardiomyopathy|not provided|Hypertrophic cardiomyopathy|Cardiomyopathy,Second-shell,Gly,Arg,584,G584R,0.9951,0.99504,0.8972455
+1392,P12883,MYH7,Pathogenic/Likely pathogenic,Familial hypertrophic cardiomyopathy 1|Primary familial hypertrophic cardiomyopathy|not provided|Cardiovascular phenotype|Hypertrophic cardiomyopathy,Second-shell,Val,Met,606,V606M,0.7438,0.90532094,0.62448645
+1393,P12883,MYH7,Pathogenic/Likely pathogenic,Familial hypertrophic cardiomyopathy 1|not provided|Hypertrophic cardiomyopathy|Cardiovascular phenotype|7 conditions|Cardiomyopathy,Second-shell,Glu,Lys,924,E924K,0.7959,0.9647455,0.71100354
+1394,P12883,MYH7,Pathogenic,Familial hypertrophic cardiomyopathy 1|Primary familial hypertrophic cardiomyopathy|not provided|Cardiovascular phenotype|Hypertrophic cardiomyopathy|Cardiomyopathy,Second-shell,Arg,Cys,723,R723C,0.6199,0.88492316,0.55407923
+1395,P12883,MYH7,Pathogenic,Familial hypertrophic cardiomyopathy 1|Primary familial hypertrophic cardiomyopathy|not provided|Cardiovascular phenotype|Hypertrophic cardiomyopathy|Cardiomyopathy,Second-shell,Leu,Val,908,L908V,0.4203,0.9924124,0.978314
+1396,P12883,MYH7,Pathogenic,Familial hypertrophic cardiomyopathy 1|not provided|Hypertrophic cardiomyopathy|Cardiovascular phenotype|Cardiomyopathy,Second-shell,Gly,Arg,741,G741R,0.9916,0.9811198,0.9651953
+1397,P12883,MYH7,Pathogenic/Likely pathogenic,Familial hypertrophic cardiomyopathy 1|not provided|Hypertrophic cardiomyopathy,Second-shell,Gly,Glu,256,G256E,0.9992,0.97959274,0.89979106
+1398,P12883,MYH7,Pathogenic,Familial hypertrophic cardiomyopathy 1,Second-shell,Asp,Gly,778,D778G,0.9867,0.9501275,0.95277345
+1399,P12883,MYH7,Pathogenic,Familial hypertrophic cardiomyopathy 1,Second-shell,Phe,Cys,513,F513C,0.9989,0.9090934,0.9735561
+1400,P12883,MYH7,Pathogenic,Familial hypertrophic cardiomyopathy 1|not provided|Cardiovascular phenotype|Hypertrophic cardiomyopathy|Cardiomyopathy|Primary familial hypertrophic cardiomyopathy,Second-shell,Arg,Trp,719,R719W,0.8811,0.94231915,0.91884303
+1401,P12883,MYH7,Pathogenic,Familial hypertrophic cardiomyopathy 1|not provided|Hypertrophic cardiomyopathy|Cardiomyopathy,Second-shell,Gly,Arg,716,G716R,0.9735,0.93505806,0.42708126
+1402,P12883,MYH7,Pathogenic,Familial hypertrophic cardiomyopathy 1,Second-shell,Glu,Lys,935,E935K,0.5593,0.95147735,0.8489956
+1403,P12883,MYH7,Pathogenic,Dilated cardiomyopathy 1S|Primary dilated cardiomyopathy|Hypertrophic cardiomyopathy,Second-shell,Ser,Pro,532,S532P,0.9867,0.9931225,0.8383808
+1404,P12883,MYH7,Pathogenic,Dilated cardiomyopathy 1S|Hypertrophic cardiomyopathy,Second-shell,Phe,Leu,764,F764L,0.9987,0.9981901,0.9882514
+1405,P12883,MYH7,Pathogenic,"Myopathy, distal, 1|Hypertrophic cardiomyopathy",Second-shell,Arg,Pro,1500,R1500P,0.9978,0.899232,0.8262069
+1406,P12883,MYH7,Pathogenic,Myosin storage myopathy,Second-shell,His,Leu,1901,H1901L,0.5859,0.99659604,0.6434945
+1407,P12883,MYH7,Pathogenic/Likely pathogenic,Familial hypertrophic cardiomyopathy 1|not provided|Hypertrophic cardiomyopathy,Second-shell,Arg,Trp,1712,R1712W,0.7552,0.99470115,0.84959716
+1408,P12883,MYH7,Pathogenic,Familial hypertrophic cardiomyopathy 1|Primary familial hypertrophic cardiomyopathy|not provided|Hypertrophic cardiomyopathy|Hypertrophic cardiomyopathy;Chest pain,Second-shell,Arg,His,870,R870H,0.3077,0.97127646,0.95883447
+1409,P12883,MYH7,Pathogenic,Myosin storage myopathy|Familial hypertrophic cardiomyopathy 1|Left ventricular noncompaction 5|not provided|Hypertrophic cardiomyopathy,Second-shell,Leu,Pro,1793,L1793P,0.9997,0.9677202,0.9620443
+1410,P12883,MYH7,Pathogenic/Likely pathogenic,Familial hypertrophic cardiomyopathy 1|Hypertrophic cardiomyopathy|not provided|Cardiovascular phenotype|Cardiomyopathy,Second-shell,Glu,Asp,497,E497D,0.9986,0.9964522,0.9950871
+1411,P12883,MYH7,Pathogenic,Familial hypertrophic cardiomyopathy 1|Primary familial hypertrophic cardiomyopathy|not provided|Hypertrophic cardiomyopathy|Cardiovascular phenotype|7 conditions|Cardiomyopathy,Second-shell,Asp,Gly,906,D906G,0.6563,0.97436124,0.8601683
+2185,P12883,MYH7,Pathogenic/Likely pathogenic,not provided|Hypertrophic cardiomyopathy|Cardiovascular phenotype|Primary familial hypertrophic cardiomyopathy|Cardiomyopathy,Second-shell,Ala,Thr,355,A355T,0.7485,0.9486494,0.8396012
+2186,P12883,MYH7,Likely pathogenic,Hypertrophic cardiomyopathy,Second-shell,Gly,Val,407,G407V,0.9983,0.99713993,0.61922437
+2187,P12883,MYH7,Pathogenic,Primary familial hypertrophic cardiomyopathy|not provided|Hypertrophic cardiomyopathy|7 conditions|Cardiovascular phenotype|Cardiomyopathy,Second-shell,Arg,Cys,663,R663C,0.5283,0.9589906,0.74921817
+2188,P12883,MYH7,Pathogenic/Likely pathogenic,Primary familial hypertrophic cardiomyopathy|not provided|Familial hypertrophic cardiomyopathy 1|Hypertrophic cardiomyopathy|7 conditions|Cardiovascular phenotype|Wolff-Parkinson-White pattern|6 conditions|Primary familial dilated cardiomyopathy|Cardiomyopathy,Second-shell,Ala,Thr,797,A797T,0.1776,0.93960446,0.87658453
+2189,P12883,MYH7,Pathogenic/Likely pathogenic,Familial hypertrophic cardiomyopathy 1|Hypertrophic cardiomyopathy,Second-shell,Met,Thr,852,M852T,0.3544,0.9668173,0.7932169
+2190,P12883,MYH7,Pathogenic/Likely pathogenic,Hypertrophic cardiomyopathy|Dilated cardiomyopathy 1S,Second-shell,Gln,Glu,882,Q882E,0.326,0.97551495,0.91502553
+2191,P12883,MYH7,Pathogenic,Familial hypertrophic cardiomyopathy 1|Hypertrophic cardiomyopathy|not provided|Cardiovascular phenotype|Primary familial hypertrophic cardiomyopathy|not specified|Cardiomyopathy,Second-shell,Glu,Gly,894,E894G,0.3963,0.96654576,0.97342265
+2192,P12883,MYH7,Pathogenic/Likely pathogenic,Hypertrophic cardiomyopathy,Second-shell,Glu,Lys,927,E927K,0.7491,0.98043174,0.84701765
+2193,P12883,MYH7,Pathogenic/Likely pathogenic,Hypertrophic cardiomyopathy|not provided|Cardiovascular phenotype,Second-shell,Glu,Lys,930,E930K,0.6259,0.9859903,0.93970525
+2194,P12883,MYH7,Likely pathogenic,Primary familial hypertrophic cardiomyopathy|not provided|Hypertrophic cardiomyopathy|Cardiovascular phenotype|MYH7-Related Disorders|not specified|Cardiomyopathy,Second-shell,Thr,Met,1377,T1377M,0.575,0.9416215,0.7092219
+2195,P12883,MYH7,Pathogenic/Likely pathogenic,Primary familial hypertrophic cardiomyopathy|Familial hypertrophic cardiomyopathy 1|not provided|Cardiovascular phenotype|Hypertrophic cardiomyopathy,Second-shell,Ala,Thr,1379,A1379T,0.7839,0.9880612,0.77761406
+2196,P12883,MYH7,Likely pathogenic,not specified|Primary familial hypertrophic cardiomyopathy|Hypertrophic cardiomyopathy|Cardiomyopathy,Second-shell,Arg,Trp,1420,R1420W,0.9709,0.9952154,0.8638162
+2197,P12883,MYH7,Likely pathogenic,Primary familial hypertrophic cardiomyopathy|not provided|Familial hypertrophic cardiomyopathy 1|Hypertrophic cardiomyopathy,Second-shell,Arg,Gln,143,R143Q,0.6771,0.9739386,0.8102898
+2198,P12883,MYH7,Pathogenic/Likely pathogenic,Hypertrophic cardiomyopathy|Cardiomyopathy,Second-shell,Lys,Asn,146,K146N,0.9871,0.90449464,0.45910954
+2199,P12883,MYH7,Pathogenic/Likely pathogenic,Primary dilated cardiomyopathy|not provided|Cardiovascular phenotype|Hypertrophic cardiomyopathy|Cardiomyopathy,Second-shell,Ile,Thr,201,I201T,0.2086,0.95920056,0.48788044
+2200,P12883,MYH7,Pathogenic,Primary familial hypertrophic cardiomyopathy|not provided|Familial hypertrophic cardiomyopathy 1|Hypertrophic cardiomyopathy|Cardiomyopathy,Second-shell,Ile,Thr,263,I263T,0.981,0.94986784,0.84665847
+2312,P12883,MYH7,Pathogenic,Left ventricular noncompaction 5,Second-shell,Tyr,Asp,283,Y283D,0.9976,0.9944501,0.9731723
+2313,P12883,MYH7,Pathogenic,Left ventricular noncompaction 5,Second-shell,Asn,Lys,1918,N1918K,0.9308,0.98697126,0.5813566
+2733,P12883,MYH7,Pathogenic,Familial hypertrophic cardiomyopathy 1|not provided|Hypertrophic cardiomyopathy|Cardiovascular phenotype,Second-shell,Ile,Thr,736,I736T,0.3767,0.9164811,0.62270355
+2734,P12883,MYH7,Likely pathogenic,not provided|Familial hypertrophic cardiomyopathy 1|Hypertrophic cardiomyopathy|Cardiomyopathy,Second-shell,His,Arg,576,H576R,0.9832,0.92556494,0.39542893
+2735,P12883,MYH7,Likely pathogenic,not specified|not provided|Hypertrophic cardiomyopathy|Hypertrophic cardiomyopathy;Sudden unexplained death|Cardiovascular phenotype|Cardiomyopathy,Second-shell,Glu,Lys,1356,E1356K,0.9036,0.96351874,0.7087112
+2736,P12883,MYH7,Pathogenic/Likely pathogenic,not provided|Hypertrophic cardiomyopathy|Cardiovascular phenotype,Second-shell,Asp,Asn,928,D928N,0.318,0.9838044,0.95932835
+2737,P12883,MYH7,Pathogenic/Likely pathogenic,Restrictive cardiomyopathy;Hypertrophic cardiomyopathy|not provided|Hypertrophic cardiomyopathy|Familial hypertrophic cardiomyopathy 1|Cardiovascular phenotype,Second-shell,Gly,Arg,768,G768R,0.9977,0.99345714,0.9646046
+2738,P12883,MYH7,Likely pathogenic,Hypertrophic cardiomyopathy|Primary familial dilated cardiomyopathy,Second-shell,Leu,Met,517,L517M,0.9432,0.9937988,0.9585424
+2739,P12883,MYH7,Pathogenic/Likely pathogenic,Hypertrophic cardiomyopathy,Second-shell,Asn,Ser,479,N479S,0.9136,0.998618,0.98344684
+2752,P12883,MYH7,Pathogenic/Likely pathogenic,not provided|Hypertrophic cardiomyopathy,Second-shell,Glu,Lys,1752,E1752K,0.7653,0.9988751,0.9160754
+2753,P12883,MYH7,Pathogenic/Likely pathogenic,not provided|Cardiovascular phenotype|Hypertrophic cardiomyopathy,Second-shell,Lys,Glu,351,K351E,0.9814,0.8946776,0.555921
+2754,P12883,MYH7,Pathogenic,not provided,Second-shell,Phe,Leu,244,F244L,0.9999,0.993636,0.98709005
+2823,P12883,MYH7,Pathogenic,"Myopathy, distal, 1",Second-shell,Leu,Pro,1706,L1706P,0.9959,0.9930341,0.9602841
+2824,P12883,MYH7,Pathogenic,"Myopathy, distal, 1",Second-shell,Ala,Pro,1663,A1663P,0.8456,0.9674856,0.54507387
+2890,P12883,MYH7,Likely pathogenic,Familial hypertrophic cardiomyopathy 1,Second-shell,Gln,Pro,734,Q734P,0.6072,0.91448045,0.5036627
+3007,P12883,MYH7,Likely pathogenic,Cardiovascular phenotype|Hypertrophic cardiomyopathy,Second-shell,Ser,Asn,782,S782N,0.7175,0.8967985,0.82976884
+1425,P34949,MPI,Pathogenic/Likely pathogenic,MPI-CDG,Second-shell,Arg,Gln,219,R219Q,0.2355,0.9492123,0.91323394
+1426,P34949,MPI,Pathogenic,MPI-CDG,Second-shell,Ser,Leu,102,S102L,0.9057,0.98796743,0.9895856
+1427,P34949,MPI,Pathogenic,MPI-CDG,Second-shell,Met,Thr,138,M138T,0.878,0.95213765,0.9265403
+1428,P34949,MPI,Pathogenic,MPI-CDG,Second-shell,Arg,His,295,R295H,0.9447,0.9965418,0.9903752
+2893,P34949,MPI,Pathogenic,MPI-CDG,Second-shell,Arg,His,418,R418H,0.4633,0.9767081,0.9570563
+1432,P61626,LYZ,Pathogenic,"Familial visceral amyloidosis, Ostertag type",Second-shell,Ile,Thr,74,I74T,0.978,0.92980474,0.8853827
+1459,P06213,INSR,Pathogenic,Insulin-resistant diabetes mellitus AND acanthosis nigricans,Second-shell,Gly,Val,1035,G1035V,0.9996,0.99103445,0.99050057
+1460,P06213,INSR,Pathogenic,Leprechaunism syndrome,Second-shell,Lys,Glu,487,K487E,0.9712,0.8235647,0.5827273
+1461,P06213,INSR,Pathogenic,Leprechaunism syndrome,Second-shell,Gly,Arg,393,G393R,0.9532,0.9900788,0.8361452
+1462,P06213,INSR,Pathogenic,Insulin-resistant diabetes mellitus AND acanthosis nigricans,Second-shell,Trp,Ser,1227,W1227S,0.9956,0.9918064,0.98218703
+1463,P06213,INSR,Pathogenic,Insulin-resistant diabetes mellitus AND acanthosis nigricans,Second-shell,Arg,Ser,762,R762S,0.956,0.89073765,0.9169941
+1464,P06213,INSR,Pathogenic,Insulin-resistant diabetes mellitus AND acanthosis nigricans|Insulin resistance,Second-shell,Ala,Thr,1161,A1161T,0.9994,0.99622726,0.92865473
+1465,P06213,INSR,Pathogenic,Leprechaunism syndrome,Second-shell,Leu,Pro,260,L260P,0.9492,0.9451484,0.81745607
+1466,P06213,INSR,Pathogenic,Insulin-resistant diabetes mellitus,Second-shell,Phe,Val,409,F409V,0.9339,0.99173415,0.9811839
+1467,P06213,INSR,Pathogenic,Pineal hyperplasia AND diabetes mellitus syndrome,Second-shell,Asn,Lys,42,N42K,0.9737,0.30874905,0.83661455
+1468,P06213,INSR,Pathogenic,Leprechaunism syndrome,Second-shell,His,Arg,236,H236R,0.9365,0.9520993,0.9579546
+1469,P06213,INSR,Pathogenic,Insulin-resistant diabetes mellitus AND acanthosis nigricans,Second-shell,Asn,Ser,489,N489S,0.8846,0.99808645,0.98808086
+1470,P06213,INSR,Pathogenic,Insulin-resistant diabetes mellitus AND acanthosis nigricans,Second-shell,Arg,Gln,1020,R1020Q,0.9257,0.9940084,0.90845096
+1471,P06213,INSR,Pathogenic,Leprechaunism syndrome,Second-shell,Gly,Arg,58,G58R,0.9954,0.98673844,0.9083637
+1472,P06213,INSR,Pathogenic,Type 2 diabetes mellitus,Second-shell,Arg,Gln,1191,R1191Q,0.9669,0.99887437,0.89539516
+1473,P06213,INSR,Pathogenic,Leprechaunism syndrome,Second-shell,Val,Ala,55,V55A,0.8064,0.11093472,0.6614675
+1474,P06213,INSR,Pathogenic,Leprechaunism syndrome,Second-shell,Arg,Pro,113,R113P,0.9179,0.7749929,0.6129259
+1475,P06213,INSR,Pathogenic,Insulin-resistant diabetes mellitus AND acanthosis nigricans,Second-shell,Ala,Glu,1162,A1162E,0.9997,0.9867582,0.92046016
+1476,P06213,INSR,Pathogenic,Insulin-resistant diabetes mellitus AND acanthosis nigricans|Hyperinsulinemic hypoglycemia familial 5,Second-shell,Arg,Gln,1201,R1201Q,0.9993,0.99932456,0.9947358
+1477,P06213,INSR,Pathogenic,Insulin resistance,Second-shell,Met,Ile,1180,M1180I,0.9994,0.99837,0.9795576
+1478,P06213,INSR,Pathogenic,Leprechaunism syndrome,Second-shell,Trp,Ser,439,W439S,0.9843,0.9656451,0.9698148
+1479,P06213,INSR,Pathogenic,Leprechaunism syndrome,Second-shell,Ile,Met,146,I146M,0.2029,0.9244931,0.91630965
+1480,P06213,INSR,Pathogenic,Leprechaunism syndrome,Second-shell,Asn,Asp,458,N458D,0.999,0.99465203,0.96855706
+1505,P05546,SERPIND1,Pathogenic,Heparin cofactor II deficiency,Second-shell,Pro,Leu,462,P462L,0.6943,0.9748632,0.97713065
+1510,P69905,HBA2,Pathogenic,Hemoglobin Quong Sze|alpha Thalassemia|none provided,Second-shell,Leu,Pro,126,L126P,0.9912,0.9941413,0.986239
+1511,P69905,HBA2,"Pathogenic, other",HEMOGLOBIN SUAN-DOK|alpha Thalassemia,Second-shell,Leu,Arg,110,L110R,0.9476,0.9872312,0.9446236
+1512,P69905,HBA2,"Pathogenic, other","HEMOGLOBIN J (BUDA)|Erythrocytosis, familial, 7",Second-shell,Lys,Asn,62,K62N,0.9191,0.6460542,0.91694933
+1513,P69905,HBA2,Likely pathogenic,HEMOGLOBIN L (FERRARA)|HEMOGLOBIN HASHARON|HEMOGLOBIN SINAI|HEMOGLOBIN SEALY|none provided|alpha Thalassemia,Second-shell,Asp,His,48,D48H,0.7605,0.9045793,0.8646888
+1514,P69905,HBA2,Likely pathogenic,HEMOGLOBIN SUN PRAIRIE|not provided,Second-shell,Ala,Pro,131,A131P,0.9694,0.6763063,0.8949729
+1515,P69905,HBA2,"Pathogenic, other","HEMOGLOBIN HANAMAKI|Erythrocytosis, familial, 7",Second-shell,Lys,Glu,140,K140E,0.9274,0.9961306,0.9240071
+1516,P69905,HBA2;LOC106804612;HBA1,Pathogenic,Heinz body anemia|Splenomegaly;Anemia,Second-shell,Leu,Pro,137,L137P,0.9918,0.99683833,0.9965927
+1517,P69905,HBA1,"Pathogenic, other","HEMOGLOBIN J (CAPE TOWN)|Erythrocytosis, familial, 7",First-shell,Arg,Gln,93,R93Q,0.65,0.9972838,0.9899872
+1518,P69905,HBA1,"Pathogenic, other","HEMOGLOBIN LEGNANO|Erythrocytosis, familial, 7",Second-shell,Arg,Leu,142,R142L,0.976,0.99160856,0.9512024
+1519,P69905,HBA1,"Pathogenic, other","HEMOGLOBIN LOIRE|Erythrocytosis, familial, 7",Second-shell,Ala,Ser,89,A89S,0.6284,0.99297947,0.96776384
+1520,P69905,HBA1,"Pathogenic, other","HEMOGLOBIN KANAGAWA|Erythrocytosis, familial, 7",Second-shell,Lys,Met,41,K41M,0.894,0.8520402,0.9503878
+1521,P69905,HBA1,"Pathogenic, other","HEMOGLOBIN ROUEN|HEMOGLOBIN ETHIOPIA|Erythrocytosis, familial, 7",Second-shell,Tyr,His,141,Y141H,0.9964,0.99545896,0.9913675
+1522,P69905,HBA1,Likely pathogenic,HEMOGLOBIN TUNIS-BIZERTE|not provided|alpha Thalassemia,Second-shell,Leu,Pro,130,L130P,0.9816,0.99007285,0.99479514
+1526,P01241,GH1,Pathogenic,Short stature due to growth hormone qualitative anomaly,Second-shell,Arg,Cys,103,R103C,0.1706,0.82996094,0.6882323
+1527,P01241,GH1,Pathogenic,Short stature due to growth hormone qualitative anomaly,Second-shell,Asp,Gly,138,D138G,0.1087,0.82905835,0.6160459
+1528,P01241,GH1,Pathogenic,Short stature due to growth hormone qualitative anomaly,Second-shell,Cys,Ser,79,C79S,0.8627,0.96439683,0.97220886
+1529,P01241,GH1,Pathogenic,Autosomal dominant isolated somatotropin deficiency|not provided,Second-shell,Arg,His,209,R209H,0.1385,0.98963165,0.96746886
+1540,P15104,GLUL,Pathogenic,Congenital brain dysgenesis due to glutamine synthetase deficiency,Second-shell,Arg,Cys,324,R324C,0.9815,0.99926084,0.99796945
+1541,P15104,GLUL,Pathogenic,Congenital brain dysgenesis due to glutamine synthetase deficiency,Second-shell,Arg,Cys,341,R341C,0.9866,0.9953491,0.9824927
+1557,P80404,ABAT,Pathogenic,Gamma-aminobutyric acid transaminase deficiency,Second-shell,Arg,Lys,220,R220K,0.9622,0.9992125,0.9920547
+1572,P02679,FGG,Pathogenic,FIBRINOGEN TOKYO 2|Hypofibrinogenemia,Second-shell,Arg,Cys,301,R301C,0.7034,0.9181859,0.7802742
+2680,P02679,FGG,Pathogenic,Hypodysfibrinogenemia,Second-shell,Ser,Pro,404,S404P,0.9908,0.99603987,0.9085399
+1581,P02792,FTL,Pathogenic,Neuroferritinopathy,Second-shell,Ala,Thr,96,A96T,0.3903,0.874659,0.9288345
+2129,P02792,FTL,Pathogenic,Hereditary hyperferritinemia with congenital cataracts,Second-shell,Thr,Ile,30,T30I,0.3271,0.8817553,0.75236136
+1585,Q01959,SLC6A3,Pathogenic,"Parkinsonism-dystonia, infantile, 1",Second-shell,Leu,Gln,368,L368Q,0.9637,0.9961182,0.95607984
+1586,Q01959,SLC6A3,Pathogenic,"Parkinsonism-dystonia, infantile, 1",Second-shell,Pro,Leu,395,P395L,0.8894,0.9982742,0.9798068
+1598,Q14126,DSG2,Pathogenic/Likely pathogenic,"Arrhythmogenic right ventricular cardiomyopathy, type 10|not provided|Arrhythmogenic right ventricular cardiomyopathy",Second-shell,Arg,His,49,R49H,0.7852,0.97821176,0.9801507
+1599,Q14126,DSG2,Pathogenic,"Arrhythmogenic right ventricular cardiomyopathy, type 10|not provided|Arrhythmogenic right ventricular cardiomyopathy|Arrhythmogenic right ventricular dysplasia/cardiomyopathy, type 10",Second-shell,Arg,Gln,46,R46Q,0.6852,0.87472916,0.85725534
+1605,P99999,CYCS,Likely pathogenic,Thrombocytopenia 4|Thrombocytopenia,Second-shell,Gly,Ser,42,G42S,0.7866,0.99218446,0.91900927
+1608,P02489,CRYAA,Pathogenic,"Cataract, autosomal dominant|not provided",Second-shell,Arg,Cys,116,R116C,0.9965,0.9952485,0.9688431
+1609,P02489,CRYAA,Pathogenic,"Cataract, autosomal dominant",Second-shell,Arg,Cys,49,R49C,0.7533,0.98851925,0.94236827
+2354,P02489,CRYAA,Pathogenic,"Cataract, autosomal dominant, multiple types, with microcornea|Cataract, autosomal dominant",Second-shell,Arg,Cys,12,R12C,0.888,0.9707624,0.901053
+1632,P08253,MMP2,Pathogenic,"Multicentric osteolysis, nodulosis and arthropathy",Second-shell,Arg,His,101,R101H,0.9612,0.99616915,0.99714214
+1633,P08253,MMP2,Pathogenic,"Multicentric osteolysis, nodulosis and arthropathy",Second-shell,Glu,Lys,404,E404K,0.9989,0.9989812,0.9926878
+1651,P08123,COL1A2,Pathogenic,"Osteogenesis imperfecta type III|Osteogenesis imperfecta type I;Ehlers-Danlos syndrome, classic type",Second-shell,Gly,Ser,751,G751S,0.7479,0.98850304,0.9945222
+2885,P08123,COL1A2,Pathogenic/Likely pathogenic,"Osteogenesis imperfecta, recessive perinatal lethal;Osteogenesis imperfecta type III;Osteogenesis imperfecta with normal sclerae, dominant form|Osteogenesis imperfecta with normal sclerae, dominant form|Ehlers-Danlos syndrome, classic type;Osteogenesis imperfecta type I|Osteogenesis imperfecta, recessive perinatal lethal|Osteogenesis imperfecta|6 conditions|not provided",Second-shell,Gly,Ser,1012,G1012S,0.6555,0.9927124,0.9975775
+3012,P08123,COL1A2,Pathogenic,"not provided|Osteogenesis imperfecta type I|Ehlers-Danlos syndrome, classic type;Osteogenesis imperfecta type I",Second-shell,Gly,Ser,193,G193S,0.8337,0.9879511,0.99694127
+3013,P08123,COL1A2,Pathogenic,not provided,Second-shell,Gly,Cys,454,G454C,0.9762,0.98798406,0.9976036
+1687,P05108,CYP11A1,Pathogenic,"Adrenal insufficiency, congenital, with 46,XY sex reversal, partial or complete",Second-shell,Arg,Trp,353,R353W,0.361,0.85631657,0.87795305
+1688,P05108,CYP11A1,Pathogenic,"Adrenal insufficiency, congenital, with 46,XY sex reversal, partial or complete",Second-shell,Ala,Val,189,A189V,0.0954,0.004673767,0.41629934
+1689,P05108,CYP11A1,Pathogenic,"Adrenal insufficiency, congenital, with 46,XY sex reversal, partial or complete",Second-shell,Ala,Val,359,A359V,0.425,0.8518327,0.60376304
+1690,P05108,CYP11A1,Pathogenic,"Adrenal insufficiency, congenital, with 46,XY sex reversal, partial or complete",Second-shell,Leu,Trp,141,L141W,0.4133,0.8148544,0.99396706
+1691,P05108,CYP11A1,Pathogenic,"Adrenal insufficiency, congenital, with 46,XY sex reversal, partial or complete",Second-shell,Val,Glu,415,V415E,0.9769,0.57668054,0.975151
+1890,P05108,CYP11A1,Pathogenic,"Adrenal insufficiency, congenital, with 46,XY sex reversal, partial or complete",Second-shell,Leu,Pro,222,L222P,0.8772,0.19432844,0.98350716
+1701,P35222,CTNNB1,Pathogenic/Likely pathogenic,Carcinoma of colon|Pilomatrixoma|Adenocarcinoma of prostate|Carcinoma of esophagus|Pancreatic adenocarcinoma|Hepatocellular carcinoma|Adenocarcinoma of stomach|Malignant melanoma of skin|Medulloblastoma|Malignant neoplasm of body of uterus|Transitional cell carcinoma of the bladder|Endometrial neoplasm|Neoplasm of the large intestine|Lung adenocarcinoma,Second-shell,Ser,Tyr,33,S33Y,0.9958,0.8217954,0.93253267
+1702,P35222,CTNNB1,Pathogenic/Likely pathogenic,Pilomatrixoma|not provided|Malignant melanoma of skin|Transitional cell carcinoma of the bladder|Neoplasm of uterine cervix|Medulloblastoma|Adenocarcinoma of prostate|Malignant neoplasm of body of uterus|Hepatocellular carcinoma|Adenocarcinoma of stomach|Melanoma,First-shell,Asp,Gly,32,D32G,0.992,0.96646345,0.8859123
+1703,P35222,CTNNB1,Pathogenic/Likely pathogenic,Neoplasm of ovary|Pilomatrixoma|not provided|Malignant neoplasm of body of uterus|Carcinoma of esophagus|Hepatocellular carcinoma|Neoplasm of uterine cervix|Medulloblastoma|Lung adenocarcinoma|Adenocarcinoma of stomach|Adenocarcinoma of prostate|Transitional cell carcinoma of the bladder,Second-shell,Ser,Cys,37,S37C,0.9627,0.7104856,0.8943814
+1704,P35222,CTNNB1,"Pathogenic/Likely pathogenic, other",Hepatocellular carcinoma|Malignant neoplasm of body of uterus|Transitional cell carcinoma of the bladder|Disease|Neoplasm of the large intestine|Malignant melanoma of skin|Adenocarcinoma of prostate|Melanoma|Lung adenocarcinoma|Adrenocortical carcinoma|Nephroblastoma|Gallbladder cancer,Second-shell,Ser,Phe,45,S45F,0.9695,0.49408445,0.7115106
+1707,P00915,CA1,Pathogenic,"Carbonic anhydrase I, Guam",Second-shell,Gly,Arg,254,G254R,0.6731,0.08873954,0.7851887
+1715,P22223,CDH3,Pathogenic,Congenital hypotrichosis with juvenile macular dystrophy|not provided,Second-shell,Arg,His,503,R503H,0.2673,0.96050173,0.9847115
+1716,P22223,CDH3,Pathogenic,EEM syndrome,Second-shell,Asn,Ile,322,N322I,0.9266,0.9748845,0.8869829
+1721,P16615,ATP2A2,Pathogenic,Keratosis follicularis|not provided,Second-shell,Gly,Glu,23,G23E,0.9995,0.95858115,0.981152
+1722,P16615,ATP2A2,Pathogenic,"Darier disease, acral hemorrhagic type|not provided",First-shell,Asn,Ser,767,N767S,0.924,0.9985196,0.9966114
+1723,P16615,ATP2A2,Pathogenic,"Darier disease, acral hemorrhagic type",Second-shell,Cys,Phe,268,C268F,0.9963,0.9994923,0.99774784
+1724,P16615,ATP2A2,Pathogenic,Keratosis follicularis,Second-shell,Cys,Arg,560,C560R,0.9988,0.9949616,0.9848824
+1725,P16615,ATP2A2,Pathogenic,"Darier disease, segmental|not provided",Second-shell,Gly,Arg,769,G769R,0.9998,0.99712604,0.9965648
+1726,P16615,ATP2A2,Pathogenic,Acrokeratosis verruciformis of Hopf,Second-shell,Pro,Leu,602,P602L,0.9863,0.9942129,0.9751188
+1727,P16615,ATP2A2,Pathogenic,Keratosis follicularis,Second-shell,Arg,Gln,131,R131Q,0.9717,0.9661194,0.9758257
+1733,P41181,AQP2,Pathogenic,"Diabetes insipidus, nephrogenic, autosomal recessive|Nephrogenic diabetes insipidus|not provided",Second-shell,Arg,Cys,187,R187C,0.9472,0.9978635,0.9968136
+1734,P41181,AQP2,Pathogenic,"Diabetes insipidus, nephrogenic, autosomal recessive",Second-shell,Ser,Pro,216,S216P,0.9373,0.95400655,0.9807052
+1735,P41181,AQP2,Pathogenic/Likely pathogenic,"Diabetes insipidus, nephrogenic, autosomal recessive|not provided|Nephrogenic diabetes insipidus|Nephrogenic diabetes insipidus, autosomal",Second-shell,Gly,Arg,64,G64R,0.9303,0.9767904,0.98305225
+1736,P41181,AQP2,Pathogenic,"Diabetes insipidus, nephrogenic, autosomal recessive|Nephrogenic diabetes insipidus|not provided",Second-shell,Ala,Thr,147,A147T,0.5636,0.976713,0.9088877
+1737,P41181,AQP2,Pathogenic,"Diabetes insipidus, nephrogenic, autosomal recessive",Second-shell,Thr,Met,126,T126M,0.2441,0.2696791,0.8496608
+1738,P41181,AQP2,Pathogenic,"Diabetes insipidus, nephrogenic, autosomal recessive",Second-shell,Asn,Ser,68,N68S,0.7859,0.98370194,0.9800054
+1739,P41181,AQP2,Pathogenic,"Diabetes insipidus, nephrogenic, autosomal recessive",Second-shell,Gly,Arg,175,G175R,0.9939,0.99417627,0.98073786
+1740,P41181,AQP2,Pathogenic,"Diabetes insipidus, nephrogenic, autosomal dominant",Second-shell,Glu,Lys,258,E258K,0.607,0.6757865,0.629608
+1741,P41181,AQP2,Pathogenic,"Diabetes insipidus, nephrogenic, autosomal recessive|not provided",Second-shell,Thr,Met,125,T125M,0.1913,0.6217155,0.94822186
+1742,P41181,AQP2,Pathogenic,"Diabetes insipidus, nephrogenic, autosomal recessive",Second-shell,Leu,Val,22,L22V,0.1787,0.17317289,0.9632929
+1743,P41181,AQP2,Pathogenic,"Diabetes insipidus, nephrogenic, autosomal recessive",Second-shell,Cys,Trp,181,C181W,0.9971,0.9992034,0.9821717
+1744,P41181,AQP2,Pathogenic,"Diabetes insipidus, nephrogenic, autosomal recessive|not provided",First-shell,Gln,Pro,57,Q57P,0.8356,0.9768817,0.9822916
+1745,P41181,AQP2,Pathogenic,"Diabetes insipidus, nephrogenic, autosomal recessive",Second-shell,Gly,Val,100,G100V,0.9786,0.9359525,0.99489415
+1746,P41181,AQP2,Pathogenic,"Diabetes insipidus, nephrogenic, autosomal recessive|not provided",Second-shell,Pro,Leu,262,P262L,0.1619,0.075662315,0.54644066
+1747,P41181,AQP2,Pathogenic,"Diabetes insipidus, nephrogenic, autosomal recessive",Second-shell,Ala,Thr,190,A190T,0.8583,0.9907087,0.975571
+1760,P12821,ACE,Pathogenic,"Angiotensin i-converting enzyme, benign serum increase",Second-shell,Pro,Leu,1228,P1228L,0.5592,0.68929046,0.61596227
+1770,Q03154,ACY1,Pathogenic,Aminoacylase 1 deficiency|not provided,Second-shell,Glu,Asp,233,E233D,0.874,0.92573124,0.9602367
+1771,Q03154,ACY1,Pathogenic,Aminoacylase 1 deficiency,Second-shell,Arg,Trp,197,R197W,0.1934,0.50867754,0.7803581
+1781,Q01432,AMPD3,Pathogenic,Erythrocyte AMP deaminase deficiency,Second-shell,Arg,Cys,582,R582C,0,0.8815244,0.82835966
+1788,O43570,CA12,Pathogenic,"Hyperchlorhidrosis, isolated",Second-shell,Glu,Lys,143,E143K,0.9385,0.9966169,0.9888235
+1886,Q99798,ACO2,Pathogenic,Infantile cerebellar-retinal degeneration,Second-shell,Ser,Arg,112,S112R,0.996,0.96938133,0.9403181
+2803,Q99798,ACO2,Pathogenic,Optic atrophy 9,Second-shell,Gly,Arg,661,G661R,0.9954,0.99727434,0.985721
+2804,Q99798,ACO2,Pathogenic,Infantile cerebellar-retinal degeneration,Second-shell,Gly,Asp,259,G259D,0.9655,0.99889696,0.98294395
+2805,Q99798,ACO2,Pathogenic,Infantile cerebellar-retinal degeneration,Second-shell,Lys,Asn,736,K736N,0.3164,0.030210363,0.61948925
+1895,Q07973,CYP24A1,Pathogenic,"Hypercalcemia, infantile, 1",Second-shell,Arg,Gln,159,R159Q,0.7397,0.99421316,0.9951858
+1896,Q07973,CYP24A1,Pathogenic,"Hypercalcemia, infantile, 1|Muscle cramps|not provided",Second-shell,Arg,Trp,396,R396W,0.6993,0.99721307,0.9838958
+1897,Q07973,CYP24A1,Pathogenic,"Hypercalcemia, infantile, 1",Second-shell,Glu,Lys,322,E322K,0.9494,0.9924737,0.9728663
+1900,Q12879,GRIN2A,Pathogenic,"Epilepsy, focal, with speech disorder and with or without mental retardation",Second-shell,Asn,Lys,615,N615K,0.9997,0.98174703,0.9273317
+2134,Q12879,GRIN2A,Pathogenic,"Epilepsy, focal, with speech disorder and with or without mental retardation",Second-shell,Leu,Val,649,L649V,0.9967,0.9992199,0.9935787
+2135,Q12879,GRIN2A,Pathogenic,"Epilepsy, focal, with speech disorder and with or without mental retardation|not provided",Second-shell,Pro,Arg,552,P552R,0.9997,0.9966047,0.9926656
+2378,Q12879,GRIN2A,Likely pathogenic,"Epilepsy, focal, with speech disorder and with or without mental retardation",Second-shell,Thr,Met,531,T531M,0.9955,0.9968759,0.9853792
+2379,Q12879,GRIN2A,Pathogenic/Likely pathogenic,"Epilepsy, focal, with speech disorder and with or without mental retardation|not provided",Second-shell,Arg,His,518,R518H,0.999,0.9975586,0.9938008
+2380,Q12879,GRIN2A,Pathogenic,"Epilepsy, focal, with speech disorder and with or without mental retardation",Second-shell,Phe,Val,652,F652V,0.9992,0.98981756,0.9685251
+2860,Q12879,GRIN2A,Pathogenic,not provided,Second-shell,Met,Val,817,M817V,0.9693,0.98651206,0.9447335
+2861,Q12879,GRIN2A,Pathogenic/Likely pathogenic,not provided,Second-shell,Asp,Asn,731,D731N,0.9995,0.997416,0.975871
+2862,Q12879,GRIN2A,Pathogenic/Likely pathogenic,"not provided|Epilepsy, focal, with speech disorder and with or without mental retardation",Second-shell,Ala,Thr,716,A716T,0.9966,0.99296665,0.9752626
+1928,P52895,AKR1C2,Pathogenic,"46,XY sex reversal 8",Second-shell,Ile,Val,79,I79V,0.116,0.6734787,0.8758953
+1929,P52895,AKR1C2,Pathogenic,"46,XY sex reversal 8",Second-shell,His,Gln,90,H90Q,0.6545,0.9319721,0.93258804
+1930,P52895,AKR1C2,Pathogenic,"46,XY sex reversal 8",Second-shell,Asn,Thr,300,N300T,0.4045,0.8979708,0.6416046
+1953,Q9NP72,RAB18,Pathogenic,Warburg micro syndrome 3,Second-shell,Leu,Gln,24,L24Q,0.9955,0.995839,0.9834991
+1958,P51532,SMARCA4,Pathogenic,"Mental retardation, autosomal dominant 16|not provided|Inborn genetic diseases",Second-shell,Thr,Met,859,T859M,0.9966,0.99883085,0.9560393
+1959,P51532,SMARCA4,Pathogenic,"Mental retardation, autosomal dominant 16|not provided|Inborn genetic diseases",Second-shell,Arg,Cys,885,R885C,0.9979,0.9971813,0.97927743
+1960,P51532,SMARCA4,Pathogenic,"Mental retardation, autosomal dominant 16|not provided",Second-shell,Leu,Phe,921,L921F,0.9941,0.9959466,0.9889865
+1961,P51532,SMARCA4,Pathogenic,"Mental retardation, autosomal dominant 16|not provided",Second-shell,Met,Thr,1011,M1011T,0.9995,0.5718376,0.80085325
+1962,P51532,SMARCA4,Pathogenic,"Mental retardation, autosomal dominant 16|not provided",Second-shell,Arg,Gly,1157,R1157G,0.999,0.99853945,0.96080923
+1975,Q9H3S4,TPK1,Pathogenic,Thiamine metabolism dysfunction syndrome 5 (episodic encephalopathy type),Second-shell,Asn,His,50,N50H,0.8159,0.99154234,0.9634004
+1976,Q9H3S4,TPK1,Pathogenic,Thiamine metabolism dysfunction syndrome 5 (episodic encephalopathy type)|not provided,Second-shell,Asn,Ser,219,N219S,0.6938,0.99886847,0.9864634
+1981,P09001,MRPL3,Pathogenic,Combined oxidative phosphorylation deficiency 9,Second-shell,Pro,Arg,317,P317R,0.9267,0.97922385,0.96805465
+1985,Q4KMG0,CDON,Likely pathogenic,Holoprosencephaly 11|not provided,Second-shell,Pro,Ala,689,P689A,0.0856,0.013863771,0.17139375
+1986,Q4KMG0,CDON,Pathogenic,Holoprosencephaly 11,Second-shell,Val,Glu,780,V780E,0.9132,0.21362595,0.67603326
+1987,Q4KMG0,CDON,Pathogenic,Holoprosencephaly 11,Second-shell,Thr,Ala,790,T790A,0.2888,0.18178368,0.45196956
+1988,Q4KMG0,CDON,Pathogenic,Holoprosencephaly 11,Second-shell,Ser,Arg,940,S940R,0.6387,0.018636229,0.6366281
+1994,Q9BWP8,COLEC11,Pathogenic,3MC syndrome 2,Second-shell,Ser,Pro,169,S169P,0.7305,0.73001915,0.51184547
+1995,Q9BWP8,COLEC11,Pathogenic,3MC syndrome 2,Second-shell,Gly,Ser,204,G204S,0.7803,0.99972934,0.9300944
+2006,O95932,TGM6,Pathogenic,Spinocerebellar ataxia 35,First-shell,Asp,Gly,327,D327G,0.8641,0.9707817,0.94767964
+2177,O95932,TGM6,Pathogenic,Spinocerebellar ataxia 35,Second-shell,Asp,His,510,D510H,0.4094,0.056016147,0.5849678
+2820,O95932,TGM6,Pathogenic,Spinocerebellar ataxia 35,Second-shell,Arg,Cys,111,R111C,0.1764,0.8938721,0.6397177
+2010,O14802,POLR3A,Pathogenic,Hypomyelinating leukodystrophy 7,Second-shell,Gly,Glu,672,G672E,0.9813,0.9518043,0.91678584
+2011,O14802,POLR3A,Likely pathogenic,Hypomyelinating leukodystrophy 7|not provided,Second-shell,Met,Val,852,M852V,0.2544,0.9870384,0.8828886
+2012,O14802,POLR3A,Pathogenic,Hypomyelinating leukodystrophy 7,Second-shell,Ile,Asn,897,I897N,0.9643,0.749727,0.9087643
+2013,O14802,POLR3A,Pathogenic,Hypomyelinating leukodystrophy 7,Second-shell,Arg,Cys,1005,R1005C,0.7754,0.28536808,0.75325435
+2166,O14802,POLR3A,Pathogenic,Hypomyelinating leukodystrophy 7,Second-shell,Asp,Asn,372,D372N,0.9637,0.99605185,0.98158574
+2167,O14802,POLR3A,Pathogenic,Hypomyelinating leukodystrophy 7,Second-shell,Ser,Tyr,636,S636Y,0.9654,0.794275,0.90244246
+2168,O14802,POLR3A,Pathogenic,Hypomyelinating leukodystrophy 7,Second-shell,Cys,Tyr,724,C724Y,0.9975,0.99320906,0.79738533
+2169,O14802,POLR3A,Pathogenic,Hypomyelinating leukodystrophy 7,Second-shell,Asn,Ile,775,N775I,0.9852,0.9581465,0.889569
+2023,P61769,B2M,Pathogenic,"Familial visceral amyloidosis, Ostertag type|Non-Hodgkin lymphoma",Second-shell,Asp,Asn,96,D96N,0.4906,0.92437327,0.665472
+2056,P12755,SKI,Pathogenic/Likely pathogenic,Shprintzen-Goldberg syndrome,Second-shell,Gly,Glu,116,G116E,0.9996,0.9992378,0.9762122
+2057,P12755,SKI,Pathogenic,Shprintzen-Goldberg syndrome|Inborn genetic diseases,Second-shell,Leu,Val,32,L32V,0.8784,0.993266,0.93953204
+2058,P12755,SKI,Pathogenic,Shprintzen-Goldberg syndrome,Second-shell,Gly,Asp,34,G34D,0.9988,0.99230736,0.93838495
+2145,P12755,SKI,Likely pathogenic,Shprintzen-Goldberg syndrome,Second-shell,Pro,Gln,35,P35Q,0.9982,0.97928154,0.84439224
+2924,P12755,SKI,Pathogenic,Shprintzen-Goldberg syndrome,Second-shell,Leu,Arg,21,L21R,0.9774,0.9787405,0.9571862
+2925,P12755,SKI,Pathogenic/Likely pathogenic,Shprintzen-Goldberg syndrome|not provided,Second-shell,Gly,Arg,117,G117R,0.9983,0.99819237,0.9645554
+2107,P55265,ADAR,Pathogenic/Likely pathogenic,Aicardi-Goutieres syndrome 6,Second-shell,Arg,His,892,R892H,0.9852,0.9748728,0.97139615
+2108,P55265,ADAR,Pathogenic/Likely pathogenic,Aicardi-Goutieres syndrome 6,Second-shell,Ala,Thr,870,A870T,0.9741,0.95302665,0.9809795
+2109,P55265,ADAR,Pathogenic/Likely pathogenic,Aicardi-Goutieres syndrome 6,Second-shell,Asp,His,1113,D1113H,0.9711,0.6637581,0.6138088
+2110,P55265,ADAR,Pathogenic/Likely pathogenic,Aicardi-Goutieres syndrome 6,Second-shell,Tyr,Phe,1112,Y1112F,0.2297,0.49798957,0.9708409
+2111,P55265,ADAR,Pathogenic/Likely pathogenic,Aicardi-Goutieres syndrome 6,Second-shell,Lys,Asn,999,K999N,0.9842,0.7442809,0.69659233
+2112,P55265,ADAR,Pathogenic/Likely pathogenic,Aicardi-Goutieres syndrome 6,Second-shell,Ile,Thr,872,I872T,0.9197,0.9187351,0.9370996
+2117,Q7Z449,CYP2U1,Pathogenic/Likely pathogenic,"Spastic paraplegia 56, autosomal recessive|Neurodegeneration;Global developmental delay|Spastic paraplegia|not provided",Second-shell,Asp,Val,316,D316V,0.8941,0.76431066,0.93912405
+2118,Q7Z449,CYP2U1,Pathogenic,"Spastic paraplegia 56, autosomal recessive",Second-shell,Glu,Gly,380,E380G,0.0795,0.048565447,0.42983964
+2119,Q7Z449,CYP2U1,Pathogenic,"Spastic paraplegia 56, autosomal recessive",Second-shell,Cys,Arg,262,C262R,0.914,0.9789755,0.97731245
+2147,P38405,GNAL,Pathogenic,Dystonia 25,Second-shell,Val,Met,214,V214M,0.988,0.994762,0.9862228
+2148,P38405,GNAL,Pathogenic,Dystonia 25,Second-shell,Glu,Lys,232,E232K,0.944,0.98687893,0.9727639
+2152,Q9Y5X0,SNX10,Pathogenic,"Osteopetrosis, autosomal recessive 8",Second-shell,Arg,Gln,51,R51Q,0.8864,0.9162588,0.9927812
+2172,Q13586,STIM1,Pathogenic,"Myopathy, tubular aggregate, 1",Second-shell,Asp,Gly,84,D84G,0.9872,0.99116206,0.94441664
+2173,Q13586,STIM1,Pathogenic,"Myopathy, tubular aggregate, 1",Second-shell,His,Asn,109,H109N,0.9968,0.96312535,0.95335686
+2174,Q13586,STIM1,Pathogenic,"Myopathy, tubular aggregate, 1",Second-shell,His,Gln,72,H72Q,0.9954,0.99741936,0.9926576
+2629,Q13586,STIM1,Pathogenic,"Stormorken syndrome|Myopathy, tubular aggregate, 1;Stormorken syndrome;Combined immunodeficiency due to STIM1 deficiency|Stormorken syndrome;Combined immunodeficiency due to STIM1 deficiency",Second-shell,Arg,Trp,304,R304W,0.9331,0.98553956,0.7356962
+2664,Q13586,STIM1,Pathogenic,"not provided|Myopathy, tubular aggregate, 1|Stormorken syndrome|Combined immunodeficiency due to STIM1 deficiency;Stormorken syndrome;Myopathy with tubular aggregates",Second-shell,Ile,Phe,115,I115F,0.9736,0.927944,0.93993556
+2811,Q13586,STIM1,Likely pathogenic,"Myopathy, tubular aggregate, 1|Combined immunodeficiency due to STIM1 deficiency;Myopathy with tubular aggregates;Stormorken syndrome",First-shell,Asn,Thr,80,N80T,0.7553,0.9921876,0.9008781
+2215,O95630,STAMBP,Likely pathogenic,Microcephaly-capillary malformation syndrome,Second-shell,Glu,Gly,42,E42G,0.9382,0.9824463,0.9491234
+2216,O95630,STAMBP,Pathogenic/Likely pathogenic,Microcephaly-capillary malformation syndrome|not provided,Second-shell,Arg,Cys,38,R38C,0.9133,0.9941393,0.98201627
+2217,O95630,STAMBP,Pathogenic,Microcephaly-capillary malformation syndrome,Second-shell,Phe,Tyr,100,F100Y,0.823,0.9722158,0.8245984
+2271,Q92963,RIT1,Pathogenic,Noonan syndrome 8|not provided|Noonan syndrome|Noonan syndrome 1,Second-shell,Ala,Gly,57,A57G,0.7872,0.9875808,0.94126296
+2272,Q92963,RIT1,Pathogenic,Noonan syndrome 8|Noonan syndrome|not provided|Rasopathy,Second-shell,Gly,Ala,95,G95A,0.9528,0.98806214,0.99069136
+2589,Q92963,RIT1,Pathogenic,Noonan syndrome 8|Noonan syndrome|not provided,Second-shell,Met,Ile,90,M90I,0.9706,0.9880707,0.91682154
+2750,Q92963,RIT1,Pathogenic,Noonan syndrome 8|not provided|Noonan syndrome|Rasopathy|Non-immune hydrops fetalis,Second-shell,Phe,Leu,82,F82L,0.9998,0.97712815,0.9715607
+2762,Q92963,RIT1,Pathogenic,Noonan syndrome|not provided|Noonan syndrome 8,Second-shell,Tyr,His,89,Y89H,0.9971,0.9952614,0.9871798
+2763,Q92963,RIT1,Pathogenic,Noonan syndrome|not provided|Inborn genetic diseases|Noonan syndrome 1|Rasopathy|Noonan syndrome 8,Second-shell,Thr,Pro,83,T83P,0.8608,0.95078236,0.8827036
+2764,Q92963,RIT1,Pathogenic,Noonan syndrome 8|Noonan syndrome|not provided|not specified|Rasopathy|Inborn genetic diseases,Second-shell,Glu,Gly,81,E81G,0.9766,0.9937517,0.94468296
+2765,Q92963,RIT1,Pathogenic,Noonan syndrome|not provided|Noonan syndrome 8,First-shell,Ser,Thr,35,S35T,0.4868,0.9982893,0.9931598
+2279,Q15120,PDK3,Pathogenic,"Charcot-Marie-Tooth disease, X-linked dominant, 6",Second-shell,Arg,His,158,R158H,0.949,0.9988662,0.9960037
+2284,P78364,PHC1,Pathogenic/Likely pathogenic,Primary autosomal recessive microcephaly 11|Primary microcephaly;Intellectual disability,Second-shell,Leu,Phe,992,L992F,0.9998,0.99983954,0.9655475
+2288,Q13976,PRKG1,Pathogenic,"Aortic aneurysm, familial thoracic 8|Cardiovascular phenotype|not provided",Second-shell,Arg,Gln,192,R192Q,0.899,0.9022371,0.95758355
+2304,Q8TE60,ADAMTS18,Pathogenic,"Microcornea, myopic chorioretinal atrophy, and telecanthus",Second-shell,Cys,Trp,577,C577W,0.9973,0.99646425,0.9953767
+2305,Q8TE60,ADAMTS18,Pathogenic,"Microcornea, myopic chorioretinal atrophy, and telecanthus",Second-shell,Leu,Pro,202,L202P,0.988,0.6654609,0.95952785
+2355,P56192,MARS1,Pathogenic,Interstitial lung and liver disease,Second-shell,Ile,Thr,523,I523T,0.3478,0.8937908,0.86152864
+2773,P56192,MARS1,Pathogenic,"Charcot-Marie-Tooth disease, axonal, type 2u|Charcot-Marie-Tooth disease",Second-shell,Pro,Thr,800,P800T,0.9061,0.9677404,0.69294554
+2812,P56192,MARS1,Pathogenic,Interstitial lung and liver disease,Second-shell,Tyr,Cys,344,Y344C,0.7123,0.9886613,0.9661144
+2813,P56192,MARS1,Pathogenic,Pulmonary alveolar proteinosis|Interstitial lung and liver disease,Second-shell,Asp,Val,605,D605V,0.8127,0.9885825,0.8492928
+2376,Q5T1V6,DDX59,Pathogenic,Orofaciodigital syndrome V|not provided,Second-shell,Val,Gly,367,V367G,0.7446,0.87037706,0.8228423
+2377,Q5T1V6,DDX59,Pathogenic,Orofaciodigital syndrome V,Second-shell,Gly,Arg,534,G534R,0.9839,0.9984409,0.9842278
+2387,O14672,ADAM10,Pathogenic,Reticulate acropigmentation of Kitamura,Second-shell,Pro,Ser,139,P139S,0.4993,0.9869098,0.83693844
+2388,O14672,ADAM10,Pathogenic,Reticulate acropigmentation of Kitamura,Second-shell,Cys,Tyr,524,C524Y,0.9984,0.99806184,0.99133205
+2423,P17612,PRKACA,Pathogenic/Likely pathogenic,"Pigmented nodular adrenocortical disease, primary, 4|not provided",Second-shell,Leu,Arg,206,L206R,0.9973,0.99921787,0.976294
+2534,P46977,STT3A,Pathogenic,Congenital disorder of glycosylation type 1w,Second-shell,Val,Ala,626,V626A,0.9302,0.98450863,0.7735948
+2617,P06239,LCK,Pathogenic,Immunodeficiency 22,Second-shell,Leu,Pro,341,L341P,0.9964,0.85325897,0.9530686
+2634,O95394,PGM3,Pathogenic,Immunodeficiency 23|Hyper-IgE syndrome,Second-shell,Leu,Ser,83,L83S,0.8491,0.9952048,0.9784492
+2635,O95394,PGM3,Pathogenic,Immunodeficiency 23|Hyper-IgE syndrome,Second-shell,Asp,Tyr,502,D502Y,0.6579,0.9943184,0.69808507
+2649,O95394,PGM3,Pathogenic,Immunodeficiency 23,Second-shell,Asn,Ser,246,N246S,0.632,0.99583036,0.949219
+2650,O95394,PGM3,Pathogenic,Immunodeficiency 23,Second-shell,Gln,Arg,451,Q451R,0.5324,0.96381253,0.961165
+2638,Q9BYX4,IFIH1,Pathogenic,Aicardi-Goutieres syndrome 7,Second-shell,Arg,Gln,720,R720Q,0.156,0.9874743,0.920646
+2639,Q9BYX4,IFIH1,Pathogenic/Likely pathogenic,Aicardi-Goutieres syndrome 7|not provided|7 conditions|Singleton-Merten syndrome 1;Aicardi-Goutieres syndrome 7,Second-shell,Arg,His,779,R779H,0.0954,0.97424185,0.6591985
+2640,Q9BYX4,IFIH1,Pathogenic,Aicardi-Goutieres syndrome 7,Second-shell,Arg,Gly,337,R337G,0.8299,0.9914943,0.68472946
+2641,Q9BYX4,IFIH1,Pathogenic,Aicardi-Goutieres syndrome 7,Second-shell,Gly,Arg,495,G495R,0.1329,0.32628694,0.5027975
+2642,Q9BYX4,IFIH1,Likely pathogenic,Aicardi-Goutieres syndrome 7,Second-shell,Asp,Val,393,D393V,0.3285,0.32898656,0.6681152
+2654,Q9BYX4,IFIH1,Pathogenic,Aicardi-Goutieres syndrome 7,Second-shell,Ala,Thr,452,A452T,0.1063,0.6876296,0.7967572
+2655,Q9BYX4,IFIH1,Pathogenic,Aicardi-Goutieres syndrome 7,Second-shell,Leu,Phe,372,L372F,0.2709,0.7678501,0.89569134
+2806,Q9BYX4,IFIH1,Pathogenic,Singleton-Merten syndrome 1|not provided|Aicardi-Goutieres syndrome 7|Aicardi-Goutieres syndrome 7;Singleton-Merten syndrome 1,Second-shell,Arg,Gln,822,R822Q,0.6497,0.99886876,0.9845309
+2651,P62273,RPS29,Pathogenic,Diamond-Blackfan anemia 13,Second-shell,Ile,Phe,31,I31F,0.9797,0.9855886,0.83979464
+2652,P62273,RPS29,Likely pathogenic,Diamond-Blackfan anemia 13,Second-shell,Ile,Thr,50,I50T,0.7358,0.96828663,0.7794694
+2666,Q9UJV3,MID2,Pathogenic,"Mental retardation, X-linked 101",Second-shell,Arg,Gln,347,R347Q,0.123,0.9438791,0.62355727
+2675,Q9NZV8,KCND2,Pathogenic,not provided|Early myoclonic encephalopathy,Second-shell,Val,Met,404,V404M,0.9976,0.98695093,0.9663894
+2683,Q8TBZ6,TRMT10A,Pathogenic,"Microcephaly, short stature, and impaired glucose metabolism 1|Inborn genetic diseases",Second-shell,Gly,Arg,206,G206R,0.9928,0.99211746,0.9866802
+2688,O75874,IDH1,Pathogenic,"Glioblastoma multiforme, somatic|Transitional cell carcinoma of the bladder|Hepatocellular carcinoma|Myelodysplastic syndrome|Brainstem glioma|Oligodendroglioma|Medulloblastoma|Adenoid cystic carcinoma|Neoplasm of brain|Acute myeloid leukemia|Neoplasm of the large intestine|Adenocarcinoma of prostate|Malignant melanoma of skin|Lung adenocarcinoma|Multiple myeloma|Breast neoplasm|Astrocytoma|Glioblastoma|Metaphyseal enchondromatosis with d-2-hydroxyglutaric aciduria|not provided",Second-shell,Arg,His,132,R132H,0.992,0.9981243,0.9933302
+2716,Q92994,BRF1,Pathogenic,Cerebellofaciodental syndrome,Second-shell,Pro,His,292,P292H,0.999,0.72442865,0.90675116
+2717,Q92994,BRF1,Likely pathogenic,Cerebellofaciodental syndrome|Inborn genetic diseases,Second-shell,Ser,Leu,226,S226L,0.8995,0.99779415,0.98539144
+2718,Q92994,BRF1,Pathogenic,Cerebellofaciodental syndrome,Second-shell,Arg,Trp,223,R223W,0.9924,0.9994049,0.9932933
+2727,O14656,TOR1A,Pathogenic,Dystonia 1|not provided,Second-shell,Arg,Gln,288,R288Q,0.2727,0.8509995,0.7178202
+2747,P18564,ITGB6,Pathogenic,"Amelogenesis imperfecta, type IH",Second-shell,Ala,Thr,143,A143T,0.6354,0.9513316,0.8796124
+2748,P18564,ITGB6,Pathogenic,"Amelogenesis imperfecta, type IH",Second-shell,His,Gln,275,H275Q,0.9955,0.96577805,0.97894365
+2749,P18564,ITGB6,Pathogenic,"Amelogenesis imperfecta, type IH",Second-shell,Pro,Thr,196,P196T,0.7958,0.98911244,0.87804586
+2766,Q96EQ8,RNF125,Pathogenic,Tenorio syndrome,Second-shell,Met,Ile,112,M112I,0.9208,0.97456056,0.89537597
+2767,Q96EQ8,RNF125,Pathogenic,Tenorio syndrome,Second-shell,Arg,Cys,174,R174C,0.1002,0.85805017,0.752643
+2807,O94855,SEC24D,Pathogenic,Cole-Carpenter syndrome 2|not provided,Second-shell,Ser,Phe,1015,S1015F,0.941,0.9878945,0.9639233
+2808,O94855,SEC24D,Pathogenic,Cole-Carpenter syndrome 2,Second-shell,Gln,Pro,978,Q978P,0.3784,0.1025946,0.7432783
+2816,P84074,HPCA,Pathogenic,Torsion dystonia 2,Second-shell,Asn,Lys,75,N75K,0.9914,0.9922317,0.87973267
+2817,P84074,HPCA,Pathogenic,Torsion dystonia 2,Second-shell,Thr,Asn,71,T71N,0.9372,0.987027,0.9719864
+2818,P84074,HPCA,Pathogenic,Torsion dystonia 2,Second-shell,Ala,Thr,190,A190T,0.1157,0.7776478,0.397934
+2833,Q14432,PDE3A,Pathogenic,Brachydactyly-arterial hypertension syndrome,Second-shell,Thr,Asn,445,T445N,0.9735,0.7183927,0.769038
+2834,Q14432,PDE3A,Pathogenic,Brachydactyly-arterial hypertension syndrome|Inborn genetic diseases,Second-shell,Ala,Thr,447,A447T,0.9408,0.39015558,0.40434623
+2835,Q14432,PDE3A,Pathogenic,Brachydactyly-arterial hypertension syndrome,Second-shell,Gly,Val,449,G449V,0.968,0.9622592,0.8180163
+2852,O95602,POLR1A,Pathogenic,"Acrofacial dysostosis, Cincinnati type",Second-shell,Glu,Gln,593,E593Q,0.993,0.9864189,0.9450386
+2892,P42345,MTOR,Pathogenic,"Smith-Kingsmore syndrome|not provided|Inborn genetic diseases|Intellectual disability, severe|Rare genetic intellectual disability|CEBALID syndrome|Focal cortical dysplasia type II",Second-shell,Glu,Lys,1799,E1799K,0.9742,0.82979554,0.79325455
+2904,P60953,CDC42,Pathogenic/Likely pathogenic,Takenouchi-Kosaki syndrome|not provided|Inborn genetic diseases|Abnormality of the immune system;Postnatal growth retardation;Abnormal facial shape;Abnormality of blood and blood-forming tissues;Neurodevelopmental abnormality,Second-shell,Tyr,Cys,64,Y64C,0.9953,0.9976356,0.9890182
+2915,P29401,TKT,Pathogenic,"Short stature, developmental delay, and congenital heart defects",Second-shell,Arg,Cys,318,R318C,0.965,0.994645,0.99702007
+2947,Q8NDL9,AGBL5,Pathogenic,Retinitis pigmentosa 75,Second-shell,Asp,Asn,295,D295N,0.9702,0.99380964,0.9875733
+2948,Q8NDL9,AGBL5,Pathogenic,Retinitis pigmentosa 75,Second-shell,Arg,Trp,276,R276W,0.9827,0.83742297,0.7400688
+2999,Q96BN8,OTULIN,Pathogenic,"Autoinflammation, panniculitis, and dermatosis syndrome",Second-shell,Leu,Pro,272,L272P,0.9959,0.9076285,0.8616152
+3000,Q96BN8,OTULIN,Pathogenic,"Autoinflammation, panniculitis, and dermatosis syndrome",Second-shell,Tyr,Cys,244,Y244C,0.2312,0.9815639,0.81839997
+3008,Q2M1P5,KIF7,Pathogenic,Macrocephaly with multiple epiphyseal dysplasia and distinctive facies,Second-shell,Asn,Ser,1060,N1060S,0.854,0.9838538,0.74069047
+3032,P09871,C1S,Pathogenic,"Ehlers-Danlos syndrome, periodontal type, 2|Ehlers-Danlos syndrome, type 8",Second-shell,Cys,Arg,294,C294R,0.9534,0.9955065,0.96971893
