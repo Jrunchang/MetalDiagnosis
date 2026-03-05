@@ -8,9 +8,10 @@ cd MetalDiagnosis
 ```
 # Step 2: Build required dependencies
 It is recommended to use Anaconda to install PyTorch, PyTorch Geometrics and other required Python libraries.
-'''bash
+```bash
 source install.sh
-'''
+```
+
 
 # Step 3: Download required software
 First, Using API to predict ESMC embedding online at https://github.com/evolutionaryscale/esm#esm-c-forge-
@@ -18,9 +19,9 @@ First, Using API to predict ESMC embedding online at https://github.com/evolutio
 Then constructing protein graph and extracting node features from graphein(https://github.com/a-r-j/graphein)
 
 # Step 4: Running MetalDiagnosis
-'''bash
+```bash
 python test.py -i test_dataset.pt 
-'''
+```
 
 # Other
 We provide prediction results for an independent test set and 611 sites with **uncertain significance**.
