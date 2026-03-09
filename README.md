@@ -1,5 +1,5 @@
 # MetalDiagnosis
-MetalDiagnosis combines an improved equivariant graph neural network and a protein pre-trained language model to predict disease-related mutation sites in metal binding proteins.
+MetalDiagnosis combines an improved equivariant graph neural network and protein pre-trained language model ESMC to predict disease-related mutation sites in metal binding proteins.
 <img width="9638" height="9538" alt="workflow" src="https://github.com/user-attachments/assets/30ecc24f-cdf5-41cc-aeb5-7e06bfa11d46" />
 # Step 1: Clone the GitHub repository
 ```bash
@@ -14,7 +14,7 @@ source install.sh
 
 
 # Step 3: Download required software
-First, Using API to predict ESMC embedding online at https://github.com/evolutionaryscale/esm#esm-c-forge-
+First, Using API to extract ESMC embeddings online at https://github.com/evolutionaryscale/esm#esm-c-forge-
 
 Then constructing protein graph and extracting node features from graphein(https://github.com/a-r-j/graphein)
 
